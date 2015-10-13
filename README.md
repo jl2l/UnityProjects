@@ -1,6 +1,6 @@
 #Group Name
 ######Unity Projects - CG Fall 2015 @ Rutgers
-######By: *[Leader], [Member1], [Member2], [Member3]*
+######By: *Erin Corrado, Nikhil Kumar, Daniel Bordak*
 Check out our website: [Group Name Website](https://www.google.com "Google's Homepage!")
 
 ![alt text](teamLogo.png)
