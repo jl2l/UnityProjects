@@ -1,7 +1,7 @@
-#Group Name
+#Hatoful Pigeons
 ######Unity Projects - CG Fall 2015 @ Rutgers
 ######By: *Erin Corrado, Nikhil Kumar, Daniel Bordak*
-Check out our website: [Group Name Website](https://www.google.com "Google's Homepage!")
+Check out our website: [Kumar Code](http://kumarcode.com/Unity-Navigation-and-Animation/ "Unity Navigation and Animation")
 
 ![alt text](teamLogo.png)
 
