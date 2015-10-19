@@ -5,6 +5,8 @@ Check out our website: [Kumar Code](http://kumarcode.com/Unity-Navigation-and-An
 
 ![alt text](teamLogo.png)
 
+Image Credit: PigeoNation Inc.
+
 ###B1: Navigation and Animation
 Link to Blog: http://kumarcode.com/Unity-Navigation-and-Animation/
 
