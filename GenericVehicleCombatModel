@@ -1,32 +1,71 @@
-<mxfile host="www.draw.io" modified="2019-10-25T16:23:10.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.63 Safari/537.36" etag="xvA55nA_7paOwvhE1KiZ" version="12.1.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-16T18:21:07.914Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.36 Safari/537.36" etag="0a2oQQeR87fskD8y6tKp" version="12.2.6" type="github" pages="1">
   <diagram id="734DOA6h7F04pUfewdQU" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="QzmCrB9mLFl6MFdF9Wd7-1" value="Generic Vehicle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="320" width="395" height="130" as="geometry"/>
+        <mxCell id="QzmCrB9mLFl6MFdF9Wd7-1" value="Generic Vehicle" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="255" width="395" height="130" as="geometry"/>
         </mxCell>
-        <mxCell id="QzmCrB9mLFl6MFdF9Wd7-2" value="MLRS &lt;br&gt;HUD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QzmCrB9mLFl6MFdF9Wd7-2" value="MLRS &lt;br&gt;HUD" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="270" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="QzmCrB9mLFl6MFdF9Wd7-3" value="Cannon 30&lt;br&gt;HUD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QzmCrB9mLFl6MFdF9Wd7-3" value="Cannon 30&lt;br&gt;HUD" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="340" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="QzmCrB9mLFl6MFdF9Wd7-4" value="ATGM&amp;nbsp;&lt;br&gt;HUD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QzmCrB9mLFl6MFdF9Wd7-4" value="ATGM&amp;nbsp;&lt;br&gt;HUD" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="410" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="QzmCrB9mLFl6MFdF9Wd7-5" value="Cannon 120mm&lt;br&gt;HUD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QzmCrB9mLFl6MFdF9Wd7-5" value="Cannon 120mm&lt;br&gt;HUD" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="190" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="QzmCrB9mLFl6MFdF9Wd7-6" value="Mortar&amp;nbsp;&lt;br&gt;HUD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QzmCrB9mLFl6MFdF9Wd7-6" value="Mortar&amp;nbsp;&lt;br&gt;HUD" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="480" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="QzmCrB9mLFl6MFdF9Wd7-7" value="Weapon Control&lt;br&gt;(Turret 1)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="250" width="120" height="60" as="geometry"/>
+        <mxCell id="QzmCrB9mLFl6MFdF9Wd7-7" value="Weapon Control&lt;br&gt;(Turret 1)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1215" y="185" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="QzmCrB9mLFl6MFdF9Wd7-8" value="Weapon Control&lt;br&gt;(Turret 2)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="180" width="120" height="60" as="geometry"/>
+        <mxCell id="QzmCrB9mLFl6MFdF9Wd7-8" value="Weapon Control&lt;br&gt;(Turret 2)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1215" y="115" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="xcGdWMQautCSqMIvkO_q-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xcGdWMQautCSqMIvkO_q-1" target="xcGdWMQautCSqMIvkO_q-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="xcGdWMQautCSqMIvkO_q-1" value="Hangar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="xcGdWMQautCSqMIvkO_q-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xcGdWMQautCSqMIvkO_q-5" target="xcGdWMQautCSqMIvkO_q-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="xcGdWMQautCSqMIvkO_q-5" value="Hangar&lt;br&gt;Control" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="xcGdWMQautCSqMIvkO_q-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xcGdWMQautCSqMIvkO_q-7" target="xcGdWMQautCSqMIvkO_q-9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="xcGdWMQautCSqMIvkO_q-7" value="Vehicle List" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="520" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="xcGdWMQautCSqMIvkO_q-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xcGdWMQautCSqMIvkO_q-9" target="xcGdWMQautCSqMIvkO_q-11">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="xcGdWMQautCSqMIvkO_q-9" value="Helicopter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="660" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="xcGdWMQautCSqMIvkO_q-11" value="KA-50" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="800" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="xcGdWMQautCSqMIvkO_q-2" value="Mission Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="670" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="xcGdWMQautCSqMIvkO_q-3" value="Mission Maps" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="730" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="xcGdWMQautCSqMIvkO_q-4" value="Kalingrad v1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="820" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="xcGdWMQautCSqMIvkO_q-13" value="Helicopter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="182.5" y="280" width="395" height="130" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
