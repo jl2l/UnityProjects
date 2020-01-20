@@ -1,1 +1,82 @@
-<mxfile host="www.draw.io" modified="2020-01-19T21:07:06.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.53 Safari/537.36" version="12.5.1" etag="eo6zAz4_SRapLERrlY9T" type="github"><diagram id="rtPL9ZLaowWdcLJgZcA-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-20T00:04:11.736Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.53 Safari/537.36" etag="jQIRkk7Zj_0t3upylt_f" version="12.5.5" type="github">
+  <diagram id="rtPL9ZLaowWdcLJgZcA-" name="Page-1">
+    <mxGraphModel dx="1673" dy="1976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="0Nzez3T929Aw0EamWn-D-1" value="FAV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-160" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0Nzez3T929Aw0EamWn-D-2" value="TANK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="10" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0Nzez3T929Aw0EamWn-D-3" value="ROCKET" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0Nzez3T929Aw0EamWn-D-4" value="HOVERCRAFT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0Nzez3T929Aw0EamWn-D-5" value="HELICOPTER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="570" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0Nzez3T929Aw0EamWn-D-6" value="LIGHT&lt;br&gt;2 MG&lt;br&gt;FAST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="650" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0Nzez3T929Aw0EamWn-D-7" value="MED&lt;br&gt;1 CANNON&lt;br&gt;ROCKETS&lt;br&gt;MISSILE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="650" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0Nzez3T929Aw0EamWn-D-8" value="HEAVY&lt;br&gt;SLING&lt;br&gt;4 MG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="650" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0Nzez3T929Aw0EamWn-D-9" value="LIGHT&lt;br&gt;1 MG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="490" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0Nzez3T929Aw0EamWn-D-10" value="MED&lt;br&gt;1 CANNON&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="211" y="490" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0Nzez3T929Aw0EamWn-D-11" value="HEAVY&lt;br&gt;1 CARRY&lt;br&gt;2 MISSILE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="490" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0Nzez3T929Aw0EamWn-D-12" value="LIGHT&lt;br&gt;Truck GRAD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="67.5" y="300" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0Nzez3T929Aw0EamWn-D-13" value="MED&lt;br&gt;MLRS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="300" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0Nzez3T929Aw0EamWn-D-14" value="HEAVY&lt;br&gt;4 SSM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="300" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0Nzez3T929Aw0EamWn-D-15" value="LIGHT&lt;br&gt;MGS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="67.5" y="100" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0Nzez3T929Aw0EamWn-D-16" value="MED&lt;br&gt;T80" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="100" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0Nzez3T929Aw0EamWn-D-17" value="HEAVY&lt;br&gt;ABRAMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="100" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0Nzez3T929Aw0EamWn-D-18" value="LIGHT&lt;br&gt;Dune Buggy&lt;br&gt;1 MG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="62.5" y="-60" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0Nzez3T929Aw0EamWn-D-19" value="MED&lt;br&gt;HUMVEE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="-60" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0Nzez3T929Aw0EamWn-D-20" value="HEAVY&lt;br&gt;MRAP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="-60" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0Nzez3T929Aw0EamWn-D-21" value="Capture The Flag&lt;br&gt;Team Match&lt;br&gt;Domination&lt;br&gt;Escort Attack" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="497" y="27" width="110" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0Nzez3T929Aw0EamWn-D-22" value="Defensive Turret&lt;br&gt;MG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-10" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0Nzez3T929Aw0EamWn-D-23" value="Defensive Turret&lt;br&gt;MISSILE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="60" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0Nzez3T929Aw0EamWn-D-24" value="Destructible&lt;br&gt;Wall" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="130" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
