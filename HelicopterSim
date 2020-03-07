@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-07T11:06:37.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.43 Safari/537.36" etag="vLgsSlEau_j3CzWrtGVb" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-07T11:10:37.683Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.43 Safari/537.36" etag="RmA6gSbzDl0JamrCzirt" version="12.8.1" type="github">
   <diagram id="ALBccynUiPAhQQ5EbWAa" name="Page-1">
     <mxGraphModel dx="2523" dy="3076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -553,7 +553,7 @@
         <mxCell id="BI9wV5Gf2Wqveptw4voi-42" value="S-13&lt;br&gt;B-13L&lt;br&gt;5x" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1917" y="-350" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BI9wV5Gf2Wqveptw4voi-43" value="AS-10 Karen&lt;br&gt;Kh-25M" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-43" value="AS-10 Karen&lt;br&gt;Kh-25M&lt;br&gt;IR" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="2107" y="-460" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-44" value="AS-15 Kegler&lt;br&gt;Kh-25M&lt;br&gt;HARM" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
@@ -628,7 +628,7 @@
         <mxCell id="BI9wV5Gf2Wqveptw4voi-72" value="HC4&lt;br&gt;Gunship" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1295" y="-960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BI9wV5Gf2Wqveptw4voi-73" value="AS-20 Kayak&lt;br&gt;Kh-35" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-73" value="AS-20 Kayak&lt;br&gt;Kh-35&lt;br&gt;Radar" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="2310" y="-460" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-74" value="MH-60R&lt;br&gt;ASW" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -736,13 +736,22 @@
         <mxCell id="BI9wV5Gf2Wqveptw4voi-110" value="HMD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1782" y="1020" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BI9wV5Gf2Wqveptw4voi-111" value="R-73" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1707" y="-540" width="120" height="80" as="geometry" />
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-111" value="R-73&lt;br&gt;IR" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2115.5" y="-540" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-112" value="R-77R&lt;br&gt;HARM" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2213.5" y="-540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-113" value="R-77M&lt;br&gt;Semi-Radar" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2314.5" y="-540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-114" value="9k38 Igla&lt;br&gt;2 Chan IR" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="-540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-115" value="9k338 Igla S&lt;br&gt;2 Chan IR" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1805" y="-540" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BI9wV5Gf2Wqveptw4voi-113" value="R-77M" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-116" value="9K333 Verba&lt;br&gt;Multi-Chan IR" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1906" y="-540" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
