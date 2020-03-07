@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-07T10:59:35.574Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.43 Safari/537.36" etag="G4ddM40rYqfSOVWYPjnq" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-07T11:06:37.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.43 Safari/537.36" etag="vLgsSlEau_j3CzWrtGVb" version="12.8.1" type="github">
   <diagram id="ALBccynUiPAhQQ5EbWAa" name="Page-1">
     <mxGraphModel dx="2523" dy="3076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -560,7 +560,7 @@
           <mxGeometry x="2207" y="-460" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-46" value="Shipunov &lt;br&gt;2A42" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1707" y="-550" width="120" height="80" as="geometry" />
+          <mxGeometry x="1697" y="-630" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-48" value="AGM-176&lt;br&gt;Griffin" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="2227" y="-60" width="120" height="80" as="geometry" />
@@ -735,6 +735,15 @@
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-110" value="HMD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1782" y="1020" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-111" value="R-73" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1707" y="-540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-112" value="R-77R&lt;br&gt;HARM" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1805" y="-540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-113" value="R-77M" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1906" y="-540" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
