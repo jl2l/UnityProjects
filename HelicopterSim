@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-03-07T10:48:53.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.43 Safari/537.36" etag="2GLWBOKo2M7BtZDVFJst" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-07T10:52:56.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.43 Safari/537.36" etag="zaVuQcDwkYpLn8qA444J" version="12.8.1" type="github">
   <diagram id="ALBccynUiPAhQQ5EbWAa" name="Page-1">
-    <mxGraphModel dx="2272" dy="2945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2523" dy="3076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -494,13 +494,13 @@
           <mxGeometry x="1015" y="-710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-21" value="Klimov TV3-117VMA-SB3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2077" y="-790" width="170" height="60" as="geometry" />
+          <mxGeometry x="2083" y="-920" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-22" value="MMW Radar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="-660" width="170" height="60" as="geometry" />
+          <mxGeometry x="1210" y="940" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-23" value="Klimov VK-2500" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2267" y="-790" width="170" height="60" as="geometry" />
+          <mxGeometry x="2273" y="-920" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-26" value="AT-9&lt;br&gt;9M120 &lt;br&gt;Ataka" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1707" y="-460" width="120" height="80" as="geometry" />
@@ -578,13 +578,13 @@
           <mxGeometry x="2040" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-53" value="SAL Laser" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="-660" width="170" height="60" as="geometry" />
+          <mxGeometry x="1400" y="940" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-54" value="SACLOS Optic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2070" y="-660" width="170" height="60" as="geometry" />
+          <mxGeometry x="1590" y="940" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BI9wV5Gf2Wqveptw4voi-55" value="IIR seeker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2262" y="-660" width="170" height="60" as="geometry" />
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-55" value="FLIR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1782" y="940" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-56" value="M230&lt;br&gt;30mm" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1730" y="-240" width="120" height="80" as="geometry" />
@@ -662,10 +662,10 @@
           <mxGeometry x="1435" y="-1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-85" value="GE T700" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1685" y="-790" width="170" height="60" as="geometry" />
+          <mxGeometry x="1691" y="-920" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-86" value="GE T900" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1875" y="-790" width="170" height="60" as="geometry" />
+          <mxGeometry x="1881" y="-920" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-87" value="M135&lt;br&gt;Minigun &lt;br&gt;7.62mm" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1930" y="-240" width="120" height="80" as="geometry" />
@@ -693,6 +693,30 @@
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-95" value="AGM-114R&lt;br&gt;Tri-Seeker" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="2127" y="-60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-97" value="RWR Warn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="810" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-98" value="LWR Laser" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1401" y="810" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-99" value="IRWR IR Warn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1603" y="810" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-100" value="DIRCM Jam" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1805" y="810" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-101" value="FLIR Ball" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="940" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-102" value="Flare" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="810" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-103" value="Chaff" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="810" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-104" value="Smoke" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2370" y="810" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
