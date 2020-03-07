@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-07T13:02:42.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.43 Safari/537.36" etag="NXED-QvfKLEoU3xSSBKz" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-07T16:03:14.339Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.43 Safari/537.36" etag="Eno6_TWEbYa6HgqAXaVW" version="12.8.1" type="github">
   <diagram id="ALBccynUiPAhQQ5EbWAa" name="Page-1">
     <mxGraphModel dx="3373" dy="3076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -409,7 +409,7 @@
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-160" value="MH-6M MELB&lt;br&gt;Day/Night SOCOM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1015" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2wqVy31y-ZNsBMLxYNOB-163" value="AS350 Ecureuil L1&lt;br&gt;Army Transport" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2wqVy31y-ZNsBMLxYNOB-163" value="AS350 Ecureuil L1&lt;br&gt;Army Transport Sling" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="875" y="-20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-164" value="AS550 Fennec C3&lt;br&gt;ATGM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -418,19 +418,19 @@
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-165" value="AS550 Fennec C2&lt;br&gt;Gunship" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="875" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2wqVy31y-ZNsBMLxYNOB-166" value="AS350 Ecureuil L2&lt;br&gt;Army CSAR" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2wqVy31y-ZNsBMLxYNOB-166" value="AS350 Ecureuil L2&lt;br&gt;Army CSAR Winch" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1005" y="-20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2wqVy31y-ZNsBMLxYNOB-167" value="AS550 Fennec 2 AN&lt;br&gt;Naval" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2wqVy31y-ZNsBMLxYNOB-167" value="AS550 Fennec 2 AN&lt;br&gt;20mm" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="875" y="-170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2wqVy31y-ZNsBMLxYNOB-168" value="AS550 Fennec 2 AR&lt;br&gt;Gunship" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2wqVy31y-ZNsBMLxYNOB-168" value="AS550 Fennec 2 AR&lt;br&gt;Hydra + Gunpod" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1005" y="-170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2wqVy31y-ZNsBMLxYNOB-169" value="AS550 Fennec 2 MR&lt;br&gt;Transport" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2wqVy31y-ZNsBMLxYNOB-169" value="AS550 Fennec 2 UR&lt;br&gt;Winch + Sling" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1135" y="-170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2wqVy31y-ZNsBMLxYNOB-170" value="AS555 Fennec 2 SN&lt;br&gt;ASW" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2wqVy31y-ZNsBMLxYNOB-170" value="AS555 Fennec 2 SN&lt;br&gt;ASW Torpedo + ASM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1265" y="-170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-1" value="OH-58C&lt;br&gt;Transport" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
