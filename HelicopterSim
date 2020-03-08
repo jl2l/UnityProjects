@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-08T22:44:52.575Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.43 Safari/537.36" etag="n2_5utXk-4Yp0Fk1LBsA" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-08T22:46:12.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.43 Safari/537.36" etag="Rosiz4lN5PdhgPDt7Nz4" version="12.8.1" type="github">
   <diagram id="ALBccynUiPAhQQ5EbWAa" name="Page-1">
     <mxGraphModel dx="5923" dy="3076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1197,8 +1197,26 @@
         <mxCell id="BI9wV5Gf2Wqveptw4voi-310" value="Mission Setup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2350" y="-125" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-355" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BI9wV5Gf2Wqveptw4voi-311" target="BI9wV5Gf2Wqveptw4voi-354">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-357" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BI9wV5Gf2Wqveptw4voi-311" target="BI9wV5Gf2Wqveptw4voi-356">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-359" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BI9wV5Gf2Wqveptw4voi-311" target="BI9wV5Gf2Wqveptw4voi-358">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-311" value="World Simulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2750" y="-220" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2670" y="-275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-358" value="Temp/Pressure&lt;br&gt;/Location" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2670" y="-415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-356" value="Time Of Day" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2810" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-354" value="Weather" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2920" y="-190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-312" value="Mission Objectives" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2150" y="-70" width="120" height="60" as="geometry" />
@@ -1279,7 +1297,7 @@
           <mxGeometry x="-3080" y="245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-342" value="Map" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2740" y="-100" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2690" y="-20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-343" value="Waypoint&amp;nbsp; Neutral&amp;nbsp;&amp;nbsp;Guy&lt;br&gt;(AI)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3080" y="175" width="120" height="60" as="geometry" />
