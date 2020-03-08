@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-08T22:10:33.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.43 Safari/537.36" etag="2iPgdBMdprLqbjGA47uD" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-08T22:17:43.526Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.43 Safari/537.36" etag="V946O59h-UUAhrO4ErXy" version="12.8.1" type="github">
   <diagram id="ALBccynUiPAhQQ5EbWAa" name="Page-1">
     <mxGraphModel dx="5431" dy="3264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1164,6 +1164,9 @@
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-302" value="# 3&lt;br&gt;250kg" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2443.25" y="-1507.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-303" value="&lt;table cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; dir=&quot;ltr&quot; border=&quot;1&quot; style=&quot;table-layout: fixed ; font-size: 10pt ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;sans&amp;#34; , sans-serif ; width: 0px ; border-collapse: collapse ; border: none&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;100&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;border: 1px solid rgb(204 , 204 , 204) ; overflow: hidden ; padding: 2px 3px ; vertical-align: bottom&quot;&gt;Local Rebels&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;border: 1px solid rgb(204 , 204 , 204) ; overflow: hidden ; padding: 2px 3px ; vertical-align: bottom&quot;&gt;Islamic Rebels&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;border: 1px solid rgb(204 , 204 , 204) ; overflow: hidden ; padding: 2px 3px ; vertical-align: bottom&quot;&gt;Civilians&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px&quot;&gt;&lt;td style=&quot;border: 1px solid rgb(204 , 204 , 204) ; overflow: hidden ; padding: 2px 3px ; vertical-align: bottom&quot;&gt;Narco Rebels&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1514" y="-135" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
