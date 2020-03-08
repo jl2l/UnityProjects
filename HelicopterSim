@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-08T22:43:37.039Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.43 Safari/537.36" etag="2JvbLCE1qnxjyfmqOUeb" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-08T22:44:52.575Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.43 Safari/537.36" etag="n2_5utXk-4Yp0Fk1LBsA" version="12.8.1" type="github">
   <diagram id="ALBccynUiPAhQQ5EbWAa" name="Page-1">
     <mxGraphModel dx="5923" dy="3076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1219,10 +1219,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-315" value="Neutral Nodes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2470" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2470" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-336" value="Local Path Routes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2470" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2470" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-316" value="Waypoint&amp;nbsp; Bad Guy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3080" y="325" width="120" height="60" as="geometry" />
@@ -1275,14 +1275,8 @@
         <mxCell id="BI9wV5Gf2Wqveptw4voi-338" value="Assign Path Routes&amp;nbsp;&lt;br&gt;To Agents" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2470" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BI9wV5Gf2Wqveptw4voi-339" value="Bad Guy Agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2930" y="325" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-340" value="Waypoint&amp;nbsp; Good Guy&lt;br&gt;(AI)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3080" y="245" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BI9wV5Gf2Wqveptw4voi-341" value="Good Guy Agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2930" y="245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-342" value="Map" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2740" y="-100" width="120" height="60" as="geometry" />
@@ -1290,14 +1284,26 @@
         <mxCell id="BI9wV5Gf2Wqveptw4voi-343" value="Waypoint&amp;nbsp; Neutral&amp;nbsp;&amp;nbsp;Guy&lt;br&gt;(AI)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3080" y="175" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BI9wV5Gf2Wqveptw4voi-344" value="Neutral Guy Agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2930" y="175" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-345" value="Faction Ratio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2160" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-346" value="How Many Agents Per Node" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
           <mxGeometry x="-2320" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-349" value="Objective Nodes have a fixed location in the world,&lt;br&gt;they also have there own AI agent behavior" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2140" y="145" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-350" value="Objective Agent" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-2029" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-351" value="&lt;span style=&quot;text-align: center&quot;&gt;Neutral Guy Agent&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-2790" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-352" value="&lt;span style=&quot;text-align: center&quot;&gt;Good Guy Agent&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-2790" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-353" value="&lt;span style=&quot;text-align: center&quot;&gt;Bad Guy Agent&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-2790" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
