@@ -1,11 +1,11 @@
-<mxfile host="www.draw.io" modified="2020-03-08T21:33:14.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.43 Safari/537.36" etag="jB_XNDC3TMQ9ZqEOVIQH" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-08T21:36:19.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.43 Safari/537.36" etag="YMsOgfIl9zsvazRkTk0n" version="12.8.1" type="github">
   <diagram id="ALBccynUiPAhQQ5EbWAa" name="Page-1">
-    <mxGraphModel dx="3731" dy="3264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="10510" dy="5925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-62" value="AH-6" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="740" y="240" width="110" height="40" as="geometry" />
+          <mxGeometry x="-2815" y="-730" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-590" y="50" width="190" height="510" as="geometry" />
@@ -170,25 +170,25 @@
           <mxGeometry x="892.5" y="-1870" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-61" value="AH-1Z" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="735" y="-420" width="110" height="40" as="geometry" />
+          <mxGeometry x="-2820" y="-1390" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-63" value="AH-64" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="735" y="-332" width="110" height="42" as="geometry" />
+          <mxGeometry x="-2820" y="-1302" width="110" height="42" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-64" value="KA-50" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="735" y="-530" width="110" height="40" as="geometry" />
+          <mxGeometry x="-2820" y="-1500" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-65" value="KA-52" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="735" y="-610" width="110" height="40" as="geometry" />
+          <mxGeometry x="-2820" y="-1580" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-66" value="MI-17" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="735" y="-790" width="110" height="40" as="geometry" />
+          <mxGeometry x="-2820" y="-1760" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-67" value="KA-27" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="735" y="-870" width="110" height="40" as="geometry" />
+          <mxGeometry x="-2820" y="-1840" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-68" value="AW 101" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="735" y="-950" width="110" height="40" as="geometry" />
+          <mxGeometry x="-2820" y="-1920" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-73" value="SCOUT" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="-666" y="-940" width="120" height="20" as="geometry" />
@@ -377,37 +377,37 @@
           <mxGeometry x="780" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-146" value="MH-60" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="735" y="-1040" width="110" height="40" as="geometry" />
+          <mxGeometry x="-2820" y="-2010" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-147" value="CH-47" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="735" y="-1110" width="110" height="40" as="geometry" />
+          <mxGeometry x="-2820" y="-2080" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-149" value="Mi-28" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="735" y="-690" width="110" height="40" as="geometry" />
+          <mxGeometry x="-2820" y="-1660" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-150" value="OH-58" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="740" y="-240" width="110" height="40" as="geometry" />
+          <mxGeometry x="-2815" y="-1210" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-152" value="AH-6F&lt;br&gt;Day/Night Attack" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="875" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2680" y="-730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-155" value="AH-6G&lt;br&gt;Day/Night ATGM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1015" y="238" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2540" y="-732" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-156" value="MH-6H&lt;br&gt;Day/Night SOCOM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1155" y="238" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2400" y="-732" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-157" value="AH-6J&lt;br&gt;Day/Night Attack" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="875" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2680" y="-810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-158" value="MH-6J&lt;br&gt;Day/Night SOCOM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1015" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2540" y="-810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-159" value="AH-6M&lt;br&gt;Day/Night Attack" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="875" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2680" y="-890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-160" value="MH-6M MELB&lt;br&gt;Day/Night SOCOM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1015" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2540" y="-890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-163" value="AS350 Ecureuil L1&lt;br&gt;Army Transport Sling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1027.5" y="-1890" width="120" height="60" as="geometry" />
@@ -434,148 +434,148 @@
           <mxGeometry x="1417.5" y="-2040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-1" value="OH-58C&lt;br&gt;Transport" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="875" y="-260" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2680" y="-1230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-2" value="OH-58D&lt;br&gt;Day/Night MMT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1005" y="-260" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2550" y="-1230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-3" value="OH-58F&lt;br&gt;Day/Night Radar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1135" y="-260" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2420" y="-1230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-4" value="AH-64A&lt;br&gt;Day/Night" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="875" y="-350" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2680" y="-1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-5" value="AH-64D&lt;br&gt;Day/Night Radar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1005" y="-350" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2550" y="-1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-6" value="AH-64E&lt;br&gt;Day/Night Modern" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1135" y="-350" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2420" y="-1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-7" value="Sea Apache&lt;br&gt;Naval" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1275" y="-350" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2280" y="-1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-8" value="AH-1J&lt;br&gt;Day/Night" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="875" y="-440" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2680" y="-1410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-9" value="AH-1T" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1005" y="-440" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2550" y="-1410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-10" value="AH-1W" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1135" y="-440" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2420" y="-1410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-11" value="AH-1Z" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1275" y="-440" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2280" y="-1410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-12" value="KA-50N&lt;br&gt;Naval" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1005" y="-540" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2550" y="-1510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-13" value="KA-50Sh&lt;br&gt;Day/Night Modern" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1135" y="-540" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2420" y="-1510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-14" value="KA-50&lt;br&gt;Day Modern" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="875" y="-540" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2680" y="-1510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-15" value="KA-52&lt;br&gt;Day/Night&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="875" y="-630" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2680" y="-1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-16" value="KA-52N&lt;br&gt;Naval" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="-630" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2540" y="-1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-17" value="KA-52M&lt;br&gt;Day/Night Modern" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="-630" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2400" y="-1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-18" value="KA-52K Katran&lt;br&gt;Naval" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1295" y="-630" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2260" y="-1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-19" value="Mi-28M&lt;br&gt;Day Modern" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="875" y="-710" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2680" y="-1680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-20" value="Mi-28NM&lt;br&gt;Day/Night Modern" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="-710" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2540" y="-1680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-21" value="Klimov TV3-117VMA-SB3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2083" y="-920" width="170" height="60" as="geometry" />
+          <mxGeometry x="-1472" y="-1890" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-22" value="MMW Radar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="940" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-23" value="Klimov VK-2500" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2273" y="-920" width="170" height="60" as="geometry" />
+          <mxGeometry x="-1282" y="-1890" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-26" value="AT-9&lt;br&gt;9M120 &lt;br&gt;Ataka" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1707" y="-460" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1848" y="-1430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-27" value="AT-15&lt;br&gt;9M123 &lt;br&gt;Khrizantema" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1807" y="-460" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1748" y="-1430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-28" value="AT-16&lt;br&gt;9M123 &lt;br&gt;Vikhr" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1907" y="-460" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1648" y="-1430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-29" value="AT-21&lt;br&gt;9M123 &lt;br&gt;Hermes" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2007" y="-460" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1548" y="-1430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-30" value="S-5&lt;br&gt;UB-32&lt;br&gt;32x" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1717" y="-350" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1838" y="-1320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-31" value="AGM-114K&lt;br&gt;LASER" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1728" y="-60" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1827" y="-1030" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-32" value="AGM-114L&lt;br&gt;RADAR" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1827" y="-60" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1728" y="-1030" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-33" value="AGM-114M&lt;br&gt;Bunker" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1927" y="-60" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1628" y="-1030" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-34" value="Hydra 70&lt;br&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1728" y="20" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1827" y="-950" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-35" value="CRV-7" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1828" y="20" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1727" y="-950" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-36" value="Zuni 5" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1928" y="20" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1627" y="-950" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-37" value="AGR-20A&lt;br&gt;Laser" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2028" y="20" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1527" y="-950" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-38" value="LAU-68&lt;br&gt;7x" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1728" y="100" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1827" y="-870" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-39" value="LAU-130&lt;br&gt;17x" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1828" y="100" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1727" y="-870" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-40" value="AGM-179&lt;br&gt;JAGM" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2317" y="-60" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1238" y="-1030" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-41" value="S-8&lt;br&gt;UB-21&lt;br&gt;20x" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1817" y="-350" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1738" y="-1320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-42" value="S-13&lt;br&gt;B-13L&lt;br&gt;5x" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1917" y="-350" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1638" y="-1320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-43" value="AS-10 Karen&lt;br&gt;Kh-25M&lt;br&gt;IR" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2107" y="-460" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1448" y="-1430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-44" value="AS-15 Kegler&lt;br&gt;Kh-25M&lt;br&gt;HARM" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2207" y="-460" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1348" y="-1430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-46" value="Shipunov &lt;br&gt;2A42" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1697" y="-630" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1858" y="-1600" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-48" value="AGM-176&lt;br&gt;Griffin" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2227" y="-60" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1328" y="-1030" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-49" value="Spike NLOS" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2227" y="20" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1328" y="-950" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-50" value="LOBL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1815" y="-740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-51" value="LOAL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1665" y="-740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-52" value="TOP-ATTACK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2040" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1515" y="-740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-53" value="SAL Laser" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="940" width="170" height="60" as="geometry" />
@@ -587,112 +587,112 @@
           <mxGeometry x="1782" y="940" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-56" value="M230&lt;br&gt;30mm" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="-240" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1825" y="-1210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-57" value="M197&lt;br&gt;20mm" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1830" y="-240" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1725" y="-1210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-59" value="Mi-17M&lt;br&gt;Transport" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="875" y="-790" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2680" y="-1760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-60" value="Mi-17Sh&lt;br&gt;Gunship" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="-790" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2540" y="-1760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-61" value="Mi-17N&lt;br&gt;Naval" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="-790" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2400" y="-1760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-62" value="Mi-17Sh2&lt;br&gt;Gunship + ATGM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1295" y="-790" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2260" y="-1760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-63" value="Ka-27PL&lt;br&gt;ASW" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="875" y="-880" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2680" y="-1850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-64" value="Ka-27M&lt;br&gt;Naval Attack" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="-880" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2540" y="-1850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-67" value="Ka-252 RLD&lt;br&gt;Radar EW" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="-880" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2400" y="-1850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-68" value="Ka-29B&lt;br&gt;Transport" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1295" y="-880" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2260" y="-1850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-69" value="HM1&lt;br&gt;Naval" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="875" y="-960" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2680" y="-1930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-70" value="HM2&lt;br&gt;ASW" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="-960" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2540" y="-1930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-71" value="HC3&lt;br&gt;Army Transport" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="-960" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2400" y="-1930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-72" value="HC4&lt;br&gt;Gunship" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1295" y="-960" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2260" y="-1930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-73" value="AS-20 Kayak&lt;br&gt;Kh-35&lt;br&gt;Radar" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2310" y="-460" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1245" y="-1430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-74" value="MH-60R&lt;br&gt;ASW" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="875" y="-1050" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2680" y="-2020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-75" value="MH-60S&lt;br&gt;Maritime" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="-1050" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2540" y="-2020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-77" value="UH-60M&lt;br&gt;Army Transport" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="-1050" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2400" y="-2020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-78" value="MH-60L&lt;br&gt;SOCOM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1295" y="-1050" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2260" y="-2020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-79" value="MH-60L DAP&lt;br&gt;Gunship" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1435" y="-1050" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2120" y="-2020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-80" value="CH-47D&lt;br&gt;Army Transport" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="875" y="-1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2680" y="-2090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-81" value="MH-47D&lt;br&gt;SOCOM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="-1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2540" y="-2090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-82" value="MH-47E&lt;br&gt;SOCOM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="-1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2400" y="-2090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-83" value="CH-47F&lt;br&gt;Army Transport" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1295" y="-1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2260" y="-2090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-84" value="MH-47G&lt;br&gt;SOCOM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1435" y="-1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2120" y="-2090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-85" value="GE T700" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1691" y="-920" width="170" height="60" as="geometry" />
+          <mxGeometry x="-1864" y="-1890" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-86" value="GE T900" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1881" y="-920" width="170" height="60" as="geometry" />
+          <mxGeometry x="-1674" y="-1890" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-87" value="M135&lt;br&gt;Minigun &lt;br&gt;7.62mm" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="-240" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1625" y="-1210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-88" value="AIM-92 &lt;br&gt;Stinger" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1728" y="-140" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1827" y="-1110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-89" value="AIM-9&lt;br&gt;Sindwinder" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1827" y="-140" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1728" y="-1110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-90" value="AIM-120&lt;br&gt;AMRAM" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1927" y="-140" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1628" y="-1110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-91" value="AIM-260&lt;br&gt;JATM" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2027" y="-140" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1528" y="-1110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-92" value="AGM-25G&lt;br&gt;Maverick" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2420" y="-60" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1135" y="-1030" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-93" value="BGM-71&lt;br&gt;TOW" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2420" y="20" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1135" y="-950" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-94" value="AGM-114N&lt;br&gt;Thermobaric" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2027" y="-60" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1528" y="-1030" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-95" value="AGM-114R&lt;br&gt;Tri-Seeker" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2127" y="-60" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1428" y="-1030" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-97" value="RWR Warn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="810" width="170" height="60" as="geometry" />
@@ -737,22 +737,22 @@
           <mxGeometry x="1782" y="1020" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-111" value="R-73&lt;br&gt;IR" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2115.5" y="-540" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1439.5" y="-1510" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-112" value="R-77R&lt;br&gt;HARM" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2213.5" y="-540" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1341.5" y="-1510" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-113" value="R-77M&lt;br&gt;Semi-Radar" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="2314.5" y="-540" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1240.5" y="-1510" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-114" value="9k38 Igla&lt;br&gt;2 Chan IR" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="-540" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1855" y="-1510" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-115" value="9k338 Igla S&lt;br&gt;2 Chan IR" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1805" y="-540" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1750" y="-1510" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-116" value="9K333 Verba&lt;br&gt;Multi-Chan IR" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1906" y="-540" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1649" y="-1510" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-118" value="MFD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="790" width="120" height="60" as="geometry" />
@@ -1028,24 +1028,12 @@
           <mxGeometry x="670" y="-2040" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-220" value="AS 350 Configuration" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="847" y="-1535" width="130" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="BI9wV5Gf2Wqveptw4voi-221" value="Pilot" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="970" y="-1720" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="BI9wV5Gf2Wqveptw4voi-223" value="Gunner" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="970" y="-1500" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="BI9wV5Gf2Wqveptw4voi-224" value="Door Gunner" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="970" y="-1390" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="BI9wV5Gf2Wqveptw4voi-225" value="Mission &lt;br&gt;Crew&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="970" y="-1280" width="80" height="80" as="geometry" />
+          <mxGeometry x="1190" y="-1750" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-234" value="AS550 Fennec 2 AN&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Weapons&lt;/font&gt;&lt;/b&gt;&lt;br&gt;1 FC 20mm Cannon - 150x AP&lt;br&gt;1 FC 12.7mm Machine Gun - 750xAP&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Sensors&lt;/font&gt;&lt;/b&gt;&lt;br&gt;1 FC 20mm Cannon - 150x AP&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Countermeasures&lt;/font&gt;&lt;/b&gt;&lt;br&gt;1 FC 20mm Cannon - 150x AP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1167.5" y="-1710" width="492.5" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="BI9wV5Gf2Wqveptw4voi-235" value="Pilot" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-235" value="Pilot" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1157.5" y="-1690" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-237" value="# 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1057,7 +1045,7 @@
         <mxCell id="BI9wV5Gf2Wqveptw4voi-240" value="AS550 Fennec 2 AR&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Weapons&lt;/font&gt;&lt;/b&gt;&lt;br&gt;1 FC 20mm Cannon - 150x AP&lt;br&gt;1 FC 12.7mm Machine Gun - 750xAP&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Sensors&lt;/font&gt;&lt;/b&gt;&lt;br&gt;1 FC 20mm Cannon - 150x AP&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Countermeasures&lt;/font&gt;&lt;/b&gt;&lt;br&gt;1 FC 20mm Cannon - 150x AP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1697.5" y="-1715" width="492.5" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="BI9wV5Gf2Wqveptw4voi-241" value="Pilot" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-241" value="Pilot" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1687.5" y="-1695" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-243" value="# 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1065,6 +1053,63 @@
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-244" value="# 2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2085" y="-1520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-221" value="Pilot" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="758.5" y="-1790" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-223" value="Gunner" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="-1590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-224" value="Door Gunner" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="751.5" y="-1570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-225" value="Mission &lt;br&gt;Crew&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="751.5" y="-1460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-245" value="Pilot" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="854" y="-1780" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-246" value="Gunner" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="847" y="-1670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-247" value="Door Gunner" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="847" y="-1560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-248" value="Mission &lt;br&gt;Crew&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="847" y="-1450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-249" value="Gunner" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1693" y="-1595" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-250" value="AS550 Fennec 2 AN&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Weapons&lt;/font&gt;&lt;/b&gt;&lt;br&gt;1 FC 20mm Cannon - 150x AP&lt;br&gt;1 FC 12.7mm Machine Gun - 750xAP&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Sensors&lt;/font&gt;&lt;/b&gt;&lt;br&gt;1 FC 20mm Cannon - 150x AP&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Countermeasures&lt;/font&gt;&lt;/b&gt;&lt;br&gt;1 FC 20mm Cannon - 150x AP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2237" y="-1715" width="492.5" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-251" value="Pilot" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2227" y="-1695" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-252" value="# 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2289.5" y="-1515" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-253" value="# 2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2624.5" y="-1520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-254" value="Gunner" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2229.5" y="-1595" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-255" value="AS550 Fennec 2 AN&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Weapons&lt;/font&gt;&lt;/b&gt;&lt;br&gt;1 FC 20mm Cannon - 150x AP&lt;br&gt;1 FC 12.7mm Machine Gun - 750xAP&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Sensors&lt;/font&gt;&lt;/b&gt;&lt;br&gt;1 FC 20mm Cannon - 150x AP&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Countermeasures&lt;/font&gt;&lt;/b&gt;&lt;br&gt;1 FC 20mm Cannon - 150x AP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2790" y="-1720" width="492.5" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-256" value="Pilot" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2780" y="-1700" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-257" value="# 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2842.5" y="-1520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-258" value="# 2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3177.5" y="-1525" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-259" value="Gunner" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2782.5" y="-1600" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
