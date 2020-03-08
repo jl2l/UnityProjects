@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-08T20:18:17.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.43 Safari/537.36" etag="7KMpyeqH4-ukEIecA13G" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-08T21:33:14.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.43 Safari/537.36" etag="jB_XNDC3TMQ9ZqEOVIQH" version="12.8.1" type="github">
   <diagram id="ALBccynUiPAhQQ5EbWAa" name="Page-1">
     <mxGraphModel dx="3731" dy="3264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -167,7 +167,7 @@
           <mxGeometry x="400" y="-430" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-60" value="AS 350" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="740" width="110" height="40" as="geometry" />
+          <mxGeometry x="892.5" y="-1870" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-61" value="AH-1Z" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="735" y="-420" width="110" height="40" as="geometry" />
@@ -410,28 +410,28 @@
           <mxGeometry x="1015" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-163" value="AS350 Ecureuil L1&lt;br&gt;Army Transport Sling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="875" y="-20" width="120" height="60" as="geometry" />
+          <mxGeometry x="1027.5" y="-1890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-164" value="AS550 Fennec C3&lt;br&gt;ATGM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1005" y="-90" width="120" height="60" as="geometry" />
+          <mxGeometry x="1157.5" y="-1960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-165" value="AS550 Fennec C2&lt;br&gt;Gunship" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="875" y="-90" width="120" height="60" as="geometry" />
+          <mxGeometry x="1027.5" y="-1960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-166" value="AS350 Ecureuil L2&lt;br&gt;Army CSAR Winch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1005" y="-20" width="120" height="60" as="geometry" />
+          <mxGeometry x="1157.5" y="-1890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-167" value="AS550 Fennec 2 AN&lt;br&gt;20mm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="875" y="-170" width="120" height="60" as="geometry" />
+          <mxGeometry x="1027.5" y="-2040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-168" value="AS550 Fennec 2 AR&lt;br&gt;Hydra + Gunpod" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1005" y="-170" width="120" height="60" as="geometry" />
+          <mxGeometry x="1157.5" y="-2040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-169" value="AS550 Fennec 2 UR&lt;br&gt;Winch + Sling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1135" y="-170" width="120" height="60" as="geometry" />
+          <mxGeometry x="1287.5" y="-2040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-170" value="AS555 Fennec 2 SN&lt;br&gt;ASW Torpedo + ASM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1265" y="-170" width="120" height="60" as="geometry" />
+          <mxGeometry x="1417.5" y="-2040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-1" value="OH-58C&lt;br&gt;Transport" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="875" y="-260" width="120" height="60" as="geometry" />
@@ -1027,23 +1027,11 @@
         <mxCell id="BI9wV5Gf2Wqveptw4voi-214" value="Radar Air Track" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="-2040" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BI9wV5Gf2Wqveptw4voi-216" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1152.5" y="-1445" width="345" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="BI9wV5Gf2Wqveptw4voi-218" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1691" y="-1310" width="345" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="BI9wV5Gf2Wqveptw4voi-219" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="-1630.5" width="345" height="130" as="geometry" />
-        </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-220" value="AS 350 Configuration" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="847" y="-1535" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-221" value="Pilot" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="970" y="-1720" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="BI9wV5Gf2Wqveptw4voi-222" value="Copilot" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="970" y="-1615" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-223" value="Gunner" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="970" y="-1500" width="80" height="80" as="geometry" />
@@ -1051,8 +1039,32 @@
         <mxCell id="BI9wV5Gf2Wqveptw4voi-224" value="Door Gunner" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="970" y="-1390" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BI9wV5Gf2Wqveptw4voi-225" value="Crew&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-225" value="Mission &lt;br&gt;Crew&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="970" y="-1280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-234" value="AS550 Fennec 2 AN&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Weapons&lt;/font&gt;&lt;/b&gt;&lt;br&gt;1 FC 20mm Cannon - 150x AP&lt;br&gt;1 FC 12.7mm Machine Gun - 750xAP&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Sensors&lt;/font&gt;&lt;/b&gt;&lt;br&gt;1 FC 20mm Cannon - 150x AP&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Countermeasures&lt;/font&gt;&lt;/b&gt;&lt;br&gt;1 FC 20mm Cannon - 150x AP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1167.5" y="-1710" width="492.5" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-235" value="Pilot" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1157.5" y="-1690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-237" value="# 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="-1510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-238" value="# 2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1555" y="-1515" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-240" value="AS550 Fennec 2 AR&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Weapons&lt;/font&gt;&lt;/b&gt;&lt;br&gt;1 FC 20mm Cannon - 150x AP&lt;br&gt;1 FC 12.7mm Machine Gun - 750xAP&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Sensors&lt;/font&gt;&lt;/b&gt;&lt;br&gt;1 FC 20mm Cannon - 150x AP&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Countermeasures&lt;/font&gt;&lt;/b&gt;&lt;br&gt;1 FC 20mm Cannon - 150x AP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1697.5" y="-1715" width="492.5" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-241" value="Pilot" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1687.5" y="-1695" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-243" value="# 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="-1515" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-244" value="# 2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2085" y="-1520" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
