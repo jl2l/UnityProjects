@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-09T03:11:08.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.43 Safari/537.36" etag="cXFs-fRl2DwLd13o74Jh" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-09T03:14:19.919Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.43 Safari/537.36" etag="zqWNyNg94gRlFlJFm15v" version="12.8.1" type="github">
   <diagram id="ALBccynUiPAhQQ5EbWAa" name="Page-1">
     <mxGraphModel dx="7033" dy="3264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -221,10 +221,10 @@
           <mxGeometry x="-2280" y="1310" width="490" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-85" value="KILLER" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="-1978" y="1370" width="120" height="20" as="geometry" />
+          <mxGeometry x="-2020" y="1430" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-86" value="Killer mission you will fly with a scout and attack targets designated by it" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-2230" y="1410" width="400" height="20" as="geometry" />
+          <mxGeometry x="-2239" y="1450" width="400" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2wqVy31y-ZNsBMLxYNOB-87" value="CSAR" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="-1997" y="850" width="120" height="20" as="geometry" />
@@ -1495,16 +1495,13 @@
           <mxGeometry x="-1487" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-424" value="Objective Rule 1&lt;br&gt;ReachTarget" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
-          <mxGeometry x="-1814" y="1150" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1814" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-425" value="Objective Rule 1&lt;br&gt;Protect Friendly" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
-          <mxGeometry x="-1660" y="1150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BI9wV5Gf2Wqveptw4voi-426" value="Objective Rule 1&lt;br&gt;Destroy Target" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
-          <mxGeometry x="-1518" y="1150" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1660" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-427" value="Objective Rule 1&lt;br&gt;Return FARP" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
-          <mxGeometry x="-1358" y="1150" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1358" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-428" value="Objective Rule 1&lt;br&gt;ReachTarget" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
           <mxGeometry x="-1804" y="1295" width="120" height="60" as="geometry" />
@@ -1549,7 +1546,7 @@
           <mxGeometry x="-1659" y="1555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-443" value="Objective Rule 1&lt;br&gt;Follow Friendly" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
-          <mxGeometry x="-1370.5" y="1630" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1370.5" y="1610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-444" value="Objective Rule 1&lt;br&gt;Follow Friendly" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
           <mxGeometry x="-1794" y="1460" width="120" height="60" as="geometry" />
@@ -1567,7 +1564,55 @@
           <mxGeometry x="-1794" y="1550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-449" value="Objective Rule 1&lt;br&gt;Return FARP" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
-          <mxGeometry x="-1370.5" y="1555" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1370.5" y="1540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-455" value="Objective Rule 1&lt;br&gt;ReachTarget" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-1790" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-456" value="Objective Rule 2&lt;br&gt;Avoid Detection" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-1794" y="1760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-457" value="Objective Rule 1&lt;br&gt;ReachTarget" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-1638" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-458" value="Objective Rule 2&lt;br&gt;Avoid Detection" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-1642" y="1760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-459" value="Objective Rule 1&lt;br&gt;Drop Cargo" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-1503.5" y="1760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-460" value="Objective Rule 2&lt;br&gt;Avoid Detection" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-1370.5" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-461" value="Objective Rule 1&lt;br&gt;Return FARP" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-1370.5" y="1770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-463" value="Objective Rule 2&lt;br&gt;Avoid Detection" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-1794" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-465" value="Objective Rule 1&lt;br&gt;ReachTarget" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-1642" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-466" value="Objective Rule 2&lt;br&gt;Avoid Detection" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-1642" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-467" value="Objective Rule 2&lt;br&gt;Avoid Detection" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-1370.5" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-468" value="Objective Rule 1&lt;br&gt;Return FARP" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-1370.5" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-469" value="Objective Rule 1&lt;br&gt;DetectTarger" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-1507" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-470" value="Objective Rule 2&lt;br&gt;Avoid Detection" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-1370.5" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-471" value="Objective Rule 1&lt;br&gt;ReachTarget" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-1795" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-472" value="Objective Rule 1&lt;br&gt;Destroy Target" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-1515" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
