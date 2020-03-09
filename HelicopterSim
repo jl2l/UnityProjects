@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-09T03:14:19.919Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.43 Safari/537.36" etag="zqWNyNg94gRlFlJFm15v" version="12.8.1" type="github">
+<mxfile host="www.draw.io" modified="2020-03-09T06:41:53.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.43 Safari/537.36" etag="-0XgIrWNXjKLCkNMDFQ0" version="12.8.1" type="github">
   <diagram id="ALBccynUiPAhQQ5EbWAa" name="Page-1">
     <mxGraphModel dx="7033" dy="3264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1613,6 +1613,9 @@
         </mxCell>
         <mxCell id="BI9wV5Gf2Wqveptw4voi-472" value="Objective Rule 1&lt;br&gt;Destroy Target" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
           <mxGeometry x="-1515" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BI9wV5Gf2Wqveptw4voi-475" value="Map" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3148" y="-424" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
