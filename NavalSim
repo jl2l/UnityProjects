@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-28T19:58:11.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.83 Safari/537.36" etag="K9VmmDvXzkFaMuf218qH" version="12.8.8" type="github">
+<mxfile host="www.draw.io" modified="2020-03-28T20:04:33.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.83 Safari/537.36" etag="SnkRhlRbNezGp98Q4t1M" version="12.8.8" type="github">
   <diagram id="mk9rNKiunPBY3CxIkcsR" name="Page-1">
     <mxGraphModel dx="2372" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -117,6 +117,18 @@
         </mxCell>
         <mxCell id="CCxg_Y32eX6RPqs2bNYO-33" value="ASW Helo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="-490" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CCxg_Y32eX6RPqs2bNYO-37" value="Radio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="530" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CCxg_Y32eX6RPqs2bNYO-39" value="Crew Control" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="380" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CCxg_Y32eX6RPqs2bNYO-42" value="ESM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="530" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CCxg_Y32eX6RPqs2bNYO-43" value="CIWS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-310" width="170" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
