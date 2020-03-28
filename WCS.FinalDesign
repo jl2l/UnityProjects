@@ -1,4 +1,4 @@
-<mxfile modified="2020-03-28T17:16:44.251Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.83 Safari/537.36" etag="xCAWzAfXwi2jVU0U4OHO" version="12.8.8" type="github">
+<mxfile modified="2020-03-28T19:00:35.597Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.83 Safari/537.36" etag="3wrLwgdZU2UVKiT4jSBQ" version="12.8.8" type="github">
   <diagram id="xT5UX6U2O07lawONMWVd" name="Page-1">
     <mxGraphModel dx="2881" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="1880" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C6G6wDoDSpzaqRFq9eK2-3" value="HeloSim Module" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C6G6wDoDSpzaqRFq9eK2-4" value="BaseBuilder" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2123.5" y="290" width="120" height="60" as="geometry" />
@@ -71,13 +71,13 @@
           <mxGeometry x="240" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EhIJDA69rsYuROa-Aynx-10" value="NavalSim Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="565" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EhIJDA69rsYuROa-Aynx-11" value="GroundSim Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EhIJDA69rsYuROa-Aynx-12" value="JetSim Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EhIJDA69rsYuROa-Aynx-13" value="Intel Agent Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="230" width="120" height="60" as="geometry" />
@@ -135,6 +135,12 @@
             <mxPoint x="710" y="750" as="sourcePoint" />
             <mxPoint x="710" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EhIJDA69rsYuROa-Aynx-29" value="ICBM Missile&amp;nbsp;&lt;br&gt;Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhIJDA69rsYuROa-Aynx-30" value="DroneSim Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
