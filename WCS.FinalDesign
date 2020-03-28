@@ -1,14 +1,14 @@
-<mxfile modified="2020-03-28T02:36:47.456Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.83 Safari/537.36" etag="kVqG2UBU0WqcHAvBpVuQ" version="12.8.8" type="github">
+<mxfile modified="2020-03-28T17:16:44.251Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.83 Safari/537.36" etag="xCAWzAfXwi2jVU0U4OHO" version="12.8.8" type="github">
   <diagram id="xT5UX6U2O07lawONMWVd" name="Page-1">
-    <mxGraphModel dx="2154" dy="1030" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2881" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="C6G6wDoDSpzaqRFq9eK2-2" value="BattleMission" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1880" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C6G6wDoDSpzaqRFq9eK2-3" value="World Map" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="860" y="65" width="120" height="60" as="geometry" />
+        <mxCell id="C6G6wDoDSpzaqRFq9eK2-3" value="HeloSim Module" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C6G6wDoDSpzaqRFq9eK2-4" value="BaseBuilder" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2123.5" y="290" width="120" height="60" as="geometry" />
@@ -20,10 +20,10 @@
           <mxGeometry x="1870" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C6G6wDoDSpzaqRFq9eK2-8" value="WPM Globe" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="870" y="135" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C6G6wDoDSpzaqRFq9eK2-9" value="WSMK Map" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="870" y="205" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C6G6wDoDSpzaqRFq9eK2-10" value="WallaDev Place It" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2133.5" y="360" width="120" height="60" as="geometry" />
@@ -38,19 +38,16 @@
           <mxGeometry x="1885" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C6G6wDoDSpzaqRFq9eK2-16" value="WCS World Map" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="870" y="275" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C6G6wDoDSpzaqRFq9eK2-17" value="WCS Base Props" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2128.5" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C6G6wDoDSpzaqRFq9eK2-52" value="BudgetControl" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EhIJDA69rsYuROa-Aynx-1" value="Hangar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="1260" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EhIJDA69rsYuROa-Aynx-2" value="World Map&lt;br&gt;Server Browser" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EhIJDA69rsYuROa-Aynx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhIJDA69rsYuROa-Aynx-3" target="EhIJDA69rsYuROa-Aynx-4">
           <mxGeometry relative="1" as="geometry" />
@@ -61,17 +58,83 @@
         <mxCell id="EhIJDA69rsYuROa-Aynx-4" value="Settings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EhIJDA69rsYuROa-Aynx-6" value="Mission" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="EhIJDA69rsYuROa-Aynx-6" value="Mission&lt;br&gt;1-4 Coop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EhIJDA69rsYuROa-Aynx-7" value="Quick Mission&amp;nbsp;&lt;br&gt;Editor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EhIJDA69rsYuROa-Aynx-8" value="Quick Unit Editor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EhIJDA69rsYuROa-Aynx-9" value="Mission" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="EhIJDA69rsYuROa-Aynx-9" value="Local Mission&lt;br&gt;AI + Pilot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhIJDA69rsYuROa-Aynx-10" value="NavalSim Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhIJDA69rsYuROa-Aynx-11" value="GroundSim Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhIJDA69rsYuROa-Aynx-12" value="JetSim Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhIJDA69rsYuROa-Aynx-13" value="Intel Agent Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhIJDA69rsYuROa-Aynx-14" value="Diplomacy Agent Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhIJDA69rsYuROa-Aynx-15" value="Research Tree Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhIJDA69rsYuROa-Aynx-16" value="World Map Explorer&lt;br&gt;Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhIJDA69rsYuROa-Aynx-17" value="Economics&amp;nbsp;&lt;br&gt;Markets&lt;br&gt;&amp;nbsp;Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhIJDA69rsYuROa-Aynx-18" value="Infrastructure &amp;amp; Resources&lt;br&gt;&amp;nbsp;Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhIJDA69rsYuROa-Aynx-19" value="Government&lt;br&gt;&amp;nbsp;Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhIJDA69rsYuROa-Aynx-20" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1" source="EhIJDA69rsYuROa-Aynx-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="750" as="sourcePoint" />
+            <mxPoint x="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EhIJDA69rsYuROa-Aynx-21" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="620" as="sourcePoint" />
+            <mxPoint x="1320" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EhIJDA69rsYuROa-Aynx-22" value="Online" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="10" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EhIJDA69rsYuROa-Aynx-23" value="Offline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="770" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EhIJDA69rsYuROa-Aynx-24" value="World Map" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="580" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EhIJDA69rsYuROa-Aynx-25" value="Combat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="585" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EhIJDA69rsYuROa-Aynx-26" value="World Warfare&lt;br&gt;&amp;nbsp;Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhIJDA69rsYuROa-Aynx-1" value="Hangar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhIJDA69rsYuROa-Aynx-28" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1" target="EhIJDA69rsYuROa-Aynx-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="750" as="sourcePoint" />
+            <mxPoint x="710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
