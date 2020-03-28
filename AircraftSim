@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-03-28T03:32:21.826Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.83 Safari/537.36" etag="9mlFZEr47rjlj719zamU" version="12.8.8" type="github">
+<mxfile host="www.draw.io" modified="2020-03-28T03:35:24.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.83 Safari/537.36" etag="Ye8bvT7UziAXfjI6aQ13" version="12.8.8" type="github">
   <diagram id="Vvo9rIVmPD6QU9Zo4frX" name="Page-1">
-    <mxGraphModel dx="913" dy="1821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1522" dy="2302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,40 +11,40 @@
           <mxGeometry x="150" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nk8klHcrnCVZz_wkCwz2-1" value="CAS Support" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-120" width="170" height="30" as="geometry" />
+          <mxGeometry x="420" y="-120" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nk8klHcrnCVZz_wkCwz2-2" value="Refueling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="-120" width="170" height="30" as="geometry" />
+          <mxGeometry x="780" y="-120" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nk8klHcrnCVZz_wkCwz2-3" value="Air Patrol" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-120" width="170" height="30" as="geometry" />
+          <mxGeometry x="600" y="-120" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nk8klHcrnCVZz_wkCwz2-4" value="Stargeic Target" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-74" width="170" height="30" as="geometry" />
+          <mxGeometry x="420" y="-74" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nk8klHcrnCVZz_wkCwz2-5" value="Wild Weasel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="10" width="170" height="30" as="geometry" />
+          <mxGeometry x="420" y="10" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nk8klHcrnCVZz_wkCwz2-6" value="Surgical Strike" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-30" width="170" height="30" as="geometry" />
+          <mxGeometry x="420" y="-30" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nk8klHcrnCVZz_wkCwz2-7" value="ISR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="-80" width="170" height="30" as="geometry" />
+          <mxGeometry x="780" y="-80" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nk8klHcrnCVZz_wkCwz2-8" value="Interdiction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="50" width="170" height="30" as="geometry" />
+          <mxGeometry x="420" y="50" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nk8klHcrnCVZz_wkCwz2-9" value="troops in combat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="-200" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nk8klHcrnCVZz_wkCwz2-10" value="Air Control" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-74" width="170" height="30" as="geometry" />
+          <mxGeometry x="600" y="-74" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nk8klHcrnCVZz_wkCwz2-11" value="Paratroopers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="-44" width="170" height="30" as="geometry" />
+          <mxGeometry x="780" y="-44" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nk8klHcrnCVZz_wkCwz2-12" value="Terrorist Hunt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="90" width="170" height="30" as="geometry" />
+          <mxGeometry x="420" y="90" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
