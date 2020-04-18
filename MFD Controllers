@@ -1,17 +1,74 @@
-<mxfile host="www.draw.io" modified="2020-04-18T03:13:06.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="hePNpk4ehB3ddUS-PMB2" version="12.9.8" type="github">
+<mxfile host="www.draw.io" modified="2020-04-18T03:27:35.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="Lh_g7BRTXe74P0GUf4vJ" version="12.9.8" type="github">
   <diagram id="Z4W0r9BGhtUN4bKnLo93" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4NTRWuvOMQwdKV4lu4Im-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4NTRWuvOMQwdKV4lu4Im-1" target="4NTRWuvOMQwdKV4lu4Im-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4NTRWuvOMQwdKV4lu4Im-1" value="Search Mode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4NTRWuvOMQwdKV4lu4Im-4" value="Winch MFD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4NTRWuvOMQwdKV4lu4Im-2" value="Flight Mode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4NTRWuvOMQwdKV4lu4Im-3" value="Combat Mode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4NTRWuvOMQwdKV4lu4Im-6" value="Sonar MFD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4NTRWuvOMQwdKV4lu4Im-7" value="Flight MFD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4NTRWuvOMQwdKV4lu4Im-8" value="Radar MFD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4NTRWuvOMQwdKV4lu4Im-9" value="RADIO MFD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4NTRWuvOMQwdKV4lu4Im-10" value="FLIR MFD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4NTRWuvOMQwdKV4lu4Im-11" value="EWS MFD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4NTRWuvOMQwdKV4lu4Im-12" value="CREW MFD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4NTRWuvOMQwdKV4lu4Im-13" value="WARN MFD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4NTRWuvOMQwdKV4lu4Im-14" value="MAP MFD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4NTRWuvOMQwdKV4lu4Im-15" value="FCR MFD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4NTRWuvOMQwdKV4lu4Im-18" value="WPNS MFD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4NTRWuvOMQwdKV4lu4Im-19" value="SYS MFD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4NTRWuvOMQwdKV4lu4Im-20" value="Master Arm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4NTRWuvOMQwdKV4lu4Im-21" value="Launch Mode" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4NTRWuvOMQwdKV4lu4Im-22" value="Launch Source" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4NTRWuvOMQwdKV4lu4Im-23" value="FLIR Source" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4NTRWuvOMQwdKV4lu4Im-24" value="FLIR Source" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
