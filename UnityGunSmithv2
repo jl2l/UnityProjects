@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-13T12:49:56.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="LIs2caJd6vdUl37dWKOe" version="13.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-13T12:55:14.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="30S2Wg5AkqxZ_YHJ8qI9" version="13.0.4" type="github">
   <diagram id="7dMlIQTXBE8fyzQcLGoN" name="Page-1">
     <mxGraphModel dx="2272" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-2" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="750" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="e_5Vca3LSjWPuxWrMeDu-3" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="360" width="120" height="80" as="geometry" />
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-3" value="AWS Processing" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="300" width="270" height="170" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-4" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="20" y="560" width="120" height="80" as="geometry" />
@@ -54,6 +54,24 @@
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-18" value="The GunSmith Free License is access to the game code and&amp;nbsp;&lt;br&gt;the game assets, the output of the NFT front end and UI, the&amp;nbsp;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;add on to the NFT services is where we make money&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-340" y="180" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-21" value="The GunSmith NFT License is access to the NFT tech, they must&amp;nbsp;&lt;br&gt;go to website to sign up for it and then they create account&lt;br&gt;this process generates a wallet and whatever under the hood tech to&amp;nbsp;&lt;br&gt;sign for the NFT stuff, then they use the GUID generated at the end&amp;nbsp;&lt;br&gt;to insert it in the game, they just add new GUID for any new game,&lt;br&gt;that is the overhead for them, as long as the wallet id matches in the&lt;br&gt;build of the game it will work, we can add more checks as this matures&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-495" y="300" width="390" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-22" value="Sign Up For NFT Account" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="390" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-23" value="Generate Wallet" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-24" value="Provision Infrastructure" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-25" value="Generate UI" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-26" value="Local&lt;br&gt;DB" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="590" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
