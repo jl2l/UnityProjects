@@ -1,14 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2020-06-13T13:01:18.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="uGdzcjppdAzCrqUZBZ3b" version="13.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-13T13:12:52.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="lIbfp7v6iODfURDSq5QA" version="13.0.4" type="github">
   <diagram id="7dMlIQTXBE8fyzQcLGoN" name="Page-1">
     <mxGraphModel dx="2272" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-36" value="User Generated&lt;br&gt;Gun" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="200" height="68" as="geometry" />
+        </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-1" value="Gunsmith 3D&lt;br&gt;Unity Package" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-2" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="750" width="60" height="80" as="geometry" />
+          <mxGeometry x="195.5" y="141" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-3" value="AWS Processing" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="420" width="270" height="170" as="geometry" />
@@ -17,7 +20,7 @@
           <mxGeometry x="-180" y="520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-5" value="JSON" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-6" value="Unity NFT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="320" width="120" height="60" as="geometry" />
@@ -29,16 +32,16 @@
           <mxGeometry x="-110" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-10" value="Gun Bazzar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="359.5" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-11" value="Gun Locker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="225" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-12" value="Gun Trade" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="359.5" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-13" value="Gun Provenance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="225" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-14" value="https://github.com/Azure-Samples/blockchain/blob/master/blockchain-workbench/application-and-smart-contract-samples/basic-provenance/ethereum/BasicProvenance.sol" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="770" width="930" height="20" as="geometry" />
@@ -78,27 +81,60 @@
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-28" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="750" as="sourcePoint" />
-            <mxPoint x="10" y="470" as="targetPoint" />
+            <mxPoint x="354" y="970" as="sourcePoint" />
+            <mxPoint x="354" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-29" value="Local HTML&lt;br&gt;Front End" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=center;" vertex="1" parent="1">
           <mxGeometry x="-190" y="410" width="70" height="95" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-30" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/weapon-10/512/army_military_war_weapon_navy_aviation_gun__machine_-128.png;align=center;" vertex="1" parent="1">
-          <mxGeometry x="50" y="690" width="128" height="128" as="geometry" />
+          <mxGeometry x="90" y="141" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/weapon-10/512/army_military_war_weapon_navy_aviation_gun__rifle_-128.png;align=center;" vertex="1" parent="1">
-          <mxGeometry x="500" y="470" width="128" height="128" as="geometry" />
+          <mxGeometry x="67.5" y="400" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/weapon-10/512/army_military_war_weapon_navy_aviation_gun_machine_-128.png;align=center;" vertex="1" parent="1">
-          <mxGeometry x="620" y="472" width="128" height="128" as="geometry" />
+          <mxGeometry x="640" y="540" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-33" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.json" vertex="1" parent="1">
-          <mxGeometry x="193" y="729" width="65" height="65.8" as="geometry" />
+          <mxGeometry x="170" y="114.19999999999999" width="65" height="65.8" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-35" value="&lt;div&gt;&lt;span&gt;Unity NFT is a framework to serialize unity gameobjects&amp;nbsp;&lt;/span&gt;&lt;/div&gt;into NFY JSON files which can then be executed on &lt;br&gt;the netherum/ERC20 smart contracts this sends the data into the&lt;br&gt;NFT world and makes them unique to other connected players who have access&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;span&gt;to the same player sessions etc&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="320" width="450" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-37" value="Game Asset&lt;br&gt;Meta Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="255.5" y="171" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-38" value="1. Player makes NFT using the Gunsmith 3D front-end" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="420" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-39" value="2. Player options to make the gun available for sale in the NFT marketplace" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="440" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-40" value="3. The Gun Meta-Data is serialized as JSON data and turned into a NFT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="460" width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-41" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;4. The Gun generated is a unique combination of parts which are supplied via the gunsmith attachments, this limits&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;who can intro new &quot;parts&quot; into the marketplace to produce new generated content, parts can be anything skins, attachments,&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="490" width="680" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-42" value="5. Provenance is the function in which a user generated gun meta-data is declared unique within the blockchain&lt;br&gt;if a gun can&#39;t be declared unique a error is returned and" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="528" width="610" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e_5Vca3LSjWPuxWrMeDu-43" target="e_5Vca3LSjWPuxWrMeDu-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e_5Vca3LSjWPuxWrMeDu-43" target="e_5Vca3LSjWPuxWrMeDu-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-43" value="6. Once a Gun is declared unique it can be added to your digital lock, once its there you can&lt;br&gt;freely trade the gun with others, or if you like sell a copy of your gun on the bazaar" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="570" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-46" value="8. Gun Bazaar is a marketplace to list and sell your gun design alongside others, once you complete&lt;br&gt;transaction in the bazaar you can trigger other functions to apply, ie send the funds or trades to each other.&lt;br&gt;The currency used to trade is based on a 1 to 1 ratio for all" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="650" width="580" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-44" value="7. Gun trade is a swap from one wallet to another using the NFT transfer" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="630" width="400" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
