@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-13T13:54:36.093Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="aKp2O1qSdbcBe8y1UQ60" version="13.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-14T16:46:43.741Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="joRzfml451WxyLUIaGWi" version="13.0.4" type="github">
   <diagram id="7dMlIQTXBE8fyzQcLGoN" name="Page-1">
     <mxGraphModel dx="3122" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -107,7 +107,7 @@
           <mxGeometry x="170" y="114.19999999999999" width="65" height="65.8" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-35" value="&lt;div&gt;&lt;span&gt;Unity NFT is a framework to serialize unity gameobjects&amp;nbsp;&lt;/span&gt;&lt;/div&gt;into NFY JSON files which can then be executed on &lt;br&gt;the netherum/ERC20 smart contracts this sends the data into the&lt;br&gt;NFT world and makes them unique to other connected players who have access&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;span&gt;to the same player sessions etc&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="340" width="450" height="80" as="geometry" />
+          <mxGeometry x="200" y="340" width="450" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-37" value="Game Asset&lt;br&gt;Meta Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="255.5" y="171" width="80" height="30" as="geometry" />
