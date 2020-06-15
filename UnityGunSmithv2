@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-15T14:33:43.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="RWBvRAnqWe-LWKlGzlDb" version="13.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-15T14:39:09.071Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="v1rexNz2Sd7HOjIr6aQc" version="13.0.4" type="github">
   <diagram id="7dMlIQTXBE8fyzQcLGoN" name="Page-1">
     <mxGraphModel dx="3122" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -328,6 +328,15 @@
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-118" value="&lt;a href=&quot;https://github.com/kirsis/example-eth-wallet-in-dotnet&quot;&gt;https://github.com/kirsis/example-eth-wallet-in-dotnet&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-620" y="630" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-119" value="&lt;a href=&quot;https://github.com/Nethereum/Nethereum.Flappy&quot;&gt;https://github.com/Nethereum/Nethereum.Flappy&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-714" y="715" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-120" value="&lt;a href=&quot;https://github.com/Nethereum/nethereum.game.sample&quot;&gt;https://github.com/Nethereum/nethereum.game.sample&lt;/a&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-761" y="766" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-121" value="&lt;a href=&quot;https://github.com/Nethereum/Nethereum/tree/master/src/Nethereum.StandardNonFungibleTokenERC721&quot;&gt;https://github.com/Nethereum/Nethereum/tree/master/src/Nethereum.StandardNonFungibleTokenERC721&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-992" y="683" width="580" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
