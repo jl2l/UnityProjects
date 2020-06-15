@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-15T14:33:32.935Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="syCLxIMfUI8zFGpV0GcX" version="13.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-15T14:33:43.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="RWBvRAnqWe-LWKlGzlDb" version="13.0.4" type="github">
   <diagram id="7dMlIQTXBE8fyzQcLGoN" name="Page-1">
     <mxGraphModel dx="3122" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -324,7 +324,7 @@
           <mxGeometry x="-1372" y="710" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-117" value="&lt;a href=&quot;https://github.com/cryppadotta/dotta-license&quot;&gt;https://github.com/cryppadotta/dotta-license&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="890" width="250" height="20" as="geometry" />
+          <mxGeometry x="-385" y="440" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-118" value="&lt;a href=&quot;https://github.com/kirsis/example-eth-wallet-in-dotnet&quot;&gt;https://github.com/kirsis/example-eth-wallet-in-dotnet&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-620" y="630" width="300" height="20" as="geometry" />
