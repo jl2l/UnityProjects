@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-14T16:46:43.741Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="joRzfml451WxyLUIaGWi" version="13.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-15T14:07:03.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="UeROGwqLX_EIFDMNUd09" version="13.0.4" type="github">
   <diagram id="7dMlIQTXBE8fyzQcLGoN" name="Page-1">
-    <mxGraphModel dx="3122" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3122" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,8 +49,14 @@
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-13" value="Gun Provenance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="225" y="820" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e_5Vca3LSjWPuxWrMeDu-14" target="e_5Vca3LSjWPuxWrMeDu-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-14" value="https://github.com/Azure-Samples/blockchain/blob/master/blockchain-workbench/application-and-smart-contract-samples/basic-provenance/ethereum/BasicProvenance.sol" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="770" width="930" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-115" value="https://github.com/Azure-Samples/blockchain/blob/master/blockchain-workbench/application-and-smart-contract-samples/basic-provenance/ethereum/BasicProvenance.sol" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="770" width="930" height="20" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-15" value="&lt;a href=&quot;https://github.com/Azure-Samples/blockchain/blob/master/blockchain-workbench/application-and-smart-contract-samples/bazaar-item-listing/readme.md&quot;&gt;https://github.com/Azure-Samples/blockchain/blob/master/blockchain-workbench/application-and-smart-contract-samples/bazaar-item-listing/readme.md&lt;/a&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="740" width="820" height="20" as="geometry" />
