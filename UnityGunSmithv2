@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-15T14:39:09.071Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="v1rexNz2Sd7HOjIr6aQc" version="13.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-15T23:14:26.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="YMmoJE6wNr1aVRZ3R515" version="13.0.4" type="github">
   <diagram id="7dMlIQTXBE8fyzQcLGoN" name="Page-1">
-    <mxGraphModel dx="3122" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3122" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -337,6 +337,21 @@
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-121" value="&lt;a href=&quot;https://github.com/Nethereum/Nethereum/tree/master/src/Nethereum.StandardNonFungibleTokenERC721&quot;&gt;https://github.com/Nethereum/Nethereum/tree/master/src/Nethereum.StandardNonFungibleTokenERC721&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-992" y="683" width="580" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e_5Vca3LSjWPuxWrMeDu-122" target="e_5Vca3LSjWPuxWrMeDu-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-122" value="jSON Blob &lt;br&gt;Serializer" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="980" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-123" value="jSON Blob &lt;br&gt;Serializer" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-125" value="&lt;a href=&quot;https://github.com/cryppadotta/dotta-license/tree/master/dot-abi-cli&quot;&gt;https://github.com/cryppadotta/dotta-license/tree/master/dot-abi-cli&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-771" y="480" width="370" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-126" value="generate the sol contracts from this&amp;nbsp;&lt;br&gt;based on the abi --&amp;gt; sol code generators" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-786" y="384" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
