@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-16T20:41:26.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="4a_GrNpDkczXfF9shbPy" version="13.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-16T20:42:39.010Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="R_w3aEFKXXyU5m3f4gwW" version="13.0.4" type="github">
   <diagram id="7dMlIQTXBE8fyzQcLGoN" name="Page-1">
     <mxGraphModel dx="3972" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -419,7 +419,7 @@
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3;entryDx=0;entryDy=0;" edge="1" parent="1" source="e_5Vca3LSjWPuxWrMeDu-143" target="e_5Vca3LSjWPuxWrMeDu-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e_5Vca3LSjWPuxWrMeDu-143" value="Admin UI&lt;br&gt;Add Wallets&lt;br&gt;CRUD Items&lt;br&gt;Bazaar Admin&lt;br&gt;React + Node Server" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-143" value="Admin UI&lt;br&gt;Add Wallets&lt;br&gt;Currency&lt;br&gt;CRUD Items&lt;br&gt;Bazaar Admin&lt;br&gt;React + Node Server" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-37.5" y="1140" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-144" value="&lt;span style=&quot;text-align: left&quot;&gt;Unity NFT Private&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;Docker Node Image&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;(Need at least one)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
