@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-17T06:23:16.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="EojCx3i796gxea-d-cHM" version="13.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-17T07:42:47.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="7Rwy6mHzZSXdMi1VeeLM" version="13.0.4" type="github">
   <diagram id="7dMlIQTXBE8fyzQcLGoN" name="Page-1">
     <mxGraphModel dx="4581" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -479,9 +479,6 @@
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-173" value="Netherum RPC" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-240" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e_5Vca3LSjWPuxWrMeDu-175" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-795" y="1550" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-176" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-128.png;align=left;" vertex="1" parent="1">
           <mxGeometry x="996" y="1507" width="88" height="88" as="geometry" />
         </mxCell>
@@ -508,6 +505,12 @@
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-187" value="&lt;span style=&quot;color: rgb(23 , 23 , 23) ; font-family: &amp;#34;segoe ui&amp;#34; , &amp;#34;segoeui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;DLT Watcher gets confirmation of the transaction commitment to the Blockchain&lt;br&gt;&amp;nbsp;and sends the confirmation to the message broker (Service Bus).&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-135" y="1467" width="580" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-188" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-management-3-4/256/m-50-128.png;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-771" y="1450" width="219" height="219" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-189" value="Game Marketplace" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-556" y="1472" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
