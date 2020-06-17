@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2020-06-16T23:15:48.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="gkdqncqcGgKDGKQYUWyG" version="13.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-17T06:23:16.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="EojCx3i796gxea-d-cHM" version="13.0.4" type="github">
   <diagram id="7dMlIQTXBE8fyzQcLGoN" name="Page-1">
-    <mxGraphModel dx="3972" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4581" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-183" value="Pick Game Engine" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1492" width="1020" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-182" value="Pick Cloud Provider" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1361" width="1020" height="118" as="geometry" />
+        </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-165" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-550" y="1060.5" width="470" height="319.5" as="geometry" />
         </mxCell>
@@ -456,13 +462,52 @@
           <mxGeometry x="-495" y="906" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-168" value="Steam List&lt;br&gt;Player-&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1380" width="120" height="60" as="geometry" />
+          <mxGeometry x="-37.5" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-169" value="Netherum RPC" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="1460" width="120" height="60" as="geometry" />
+          <mxGeometry x="-521" y="1271" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e_5Vca3LSjWPuxWrMeDu-170" value="NFT Player list" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="105" y="1460" width="120" height="60" as="geometry" />
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-170" value="NFT &lt;br&gt;Player list" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="95" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-171" value="Unity Signer" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-172" value="&lt;span style=&quot;color: rgb(23 , 23 , 23) ; font-family: &amp;#34;segoe ui&amp;#34; , &amp;#34;segoeui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;DLT Consumer fetches the data from the message broker &lt;br&gt;(Service Bus) and sends data to Transaction Builder - Signer.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="1419" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-173" value="Netherum RPC" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-175" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-795" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-176" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-128.png;align=left;" vertex="1" parent="1">
+          <mxGeometry x="996" y="1507" width="88" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-177" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/popular-games-1/50/unreal_squircle-128.png;align=left;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1516" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-178" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloud_2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1016" y="1396.5" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-180" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1390" width="86" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-181" value="Sign Up Process - Create a Account" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1222" width="1020" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-184" value="Download docker container for configuration" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1630" width="1020" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-185" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1629.1" width="145" height="118.9" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-186" value="Netherum RPC&lt;br&gt;ERC721 CRUD" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-187" value="&lt;span style=&quot;color: rgb(23 , 23 , 23) ; font-family: &amp;#34;segoe ui&amp;#34; , &amp;#34;segoeui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;DLT Watcher gets confirmation of the transaction commitment to the Blockchain&lt;br&gt;&amp;nbsp;and sends the confirmation to the message broker (Service Bus).&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="1467" width="580" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
