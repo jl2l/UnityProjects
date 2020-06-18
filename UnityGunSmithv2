@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-06-17T07:42:47.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="7Rwy6mHzZSXdMi1VeeLM" version="13.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-18T05:28:27.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="cFxQyOQJ1LJE7R0kJr2_" version="13.0.4" type="github">
   <diagram id="7dMlIQTXBE8fyzQcLGoN" name="Page-1">
-    <mxGraphModel dx="4581" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4581" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-190" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="1540" width="850" height="570" as="geometry" />
+        </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-183" value="Pick Game Engine" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="570" y="1492" width="1020" height="118" as="geometry" />
         </mxCell>
@@ -477,7 +480,7 @@
           <mxGeometry x="-55" y="1419" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-173" value="Netherum RPC" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="1590" width="120" height="60" as="geometry" />
+          <mxGeometry x="-485" y="1609" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-176" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-128.png;align=left;" vertex="1" parent="1">
           <mxGeometry x="996" y="1507" width="88" height="88" as="geometry" />
@@ -498,7 +501,7 @@
           <mxGeometry x="570" y="1630" width="1020" height="118" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-185" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="1629.1" width="145" height="118.9" as="geometry" />
+          <mxGeometry x="-300" y="1550.1" width="145" height="118.9" as="geometry" />
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-186" value="Netherum RPC&lt;br&gt;ERC721 CRUD" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-300" y="1370" width="120" height="60" as="geometry" />
@@ -511,6 +514,21 @@
         </mxCell>
         <mxCell id="e_5Vca3LSjWPuxWrMeDu-189" value="Game Marketplace" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-556" y="1472" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-191" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ms_sql_instance;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1586" width="60" height="64.5" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-192" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-128.png;align=left;" vertex="1" parent="1">
+          <mxGeometry y="1669" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-193" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#8CC64F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="1783" width="73.5" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-194" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-571" y="1850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e_5Vca3LSjWPuxWrMeDu-195" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/cryptocoins/227/ETH-128.png;align=left;" vertex="1" parent="1">
+          <mxGeometry x="281" y="1738" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
