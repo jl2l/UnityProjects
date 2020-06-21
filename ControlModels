@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-21T08:09:01.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="SshyG8kCEgMgr2oV2K-1" version="13.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-21T08:10:57.989Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="j_Ion0ww4ztWQ1NFo3CJ" version="13.0.4" type="github">
   <diagram id="osSn1_rlePj1DkegJ48O" name="Page-1">
     <mxGraphModel dx="3122" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,8 +13,38 @@
         <mxCell id="kGSBU-VtlxvB7NdUqHOb-3" value="Flight Controls" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kGSBU-VtlxvB7NdUqHOb-4" target="kGSBU-VtlxvB7NdUqHOb-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kGSBU-VtlxvB7NdUqHOb-4" value="Weapons" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kGSBU-VtlxvB7NdUqHOb-109" target="kGSBU-VtlxvB7NdUqHOb-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-109" value="Guns" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kGSBU-VtlxvB7NdUqHOb-111" target="kGSBU-VtlxvB7NdUqHOb-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-111" value="Missiles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kGSBU-VtlxvB7NdUqHOb-113" target="kGSBU-VtlxvB7NdUqHOb-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-113" value="Bombs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kGSBU-VtlxvB7NdUqHOb-115" target="kGSBU-VtlxvB7NdUqHOb-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-115" value="Drones" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-117" value="Torpedos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kGSBU-VtlxvB7NdUqHOb-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kGSBU-VtlxvB7NdUqHOb-5" target="kGSBU-VtlxvB7NdUqHOb-91">
           <mxGeometry relative="1" as="geometry" />
@@ -306,6 +336,15 @@
         </mxCell>
         <mxCell id="kGSBU-VtlxvB7NdUqHOb-88" value="Helicopter Controller" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1240" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-119" value="Power" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-120" value="Light" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-121" value="Animations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
