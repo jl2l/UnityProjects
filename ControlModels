@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-06-21T08:06:14.602Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="ASbFsI3Z-gHge1SXMmJx" version="13.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-21T08:09:01.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="SshyG8kCEgMgr2oV2K-1" version="13.0.4" type="github">
   <diagram id="osSn1_rlePj1DkegJ48O" name="Page-1">
-    <mxGraphModel dx="2272" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3122" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kGSBU-VtlxvB7NdUqHOb-1" value="Game Asset" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-1" value="Game Asset" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="950" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kGSBU-VtlxvB7NdUqHOb-2" value="Hangar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-2" value="Hangar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="950" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kGSBU-VtlxvB7NdUqHOb-3" value="Flight Controls" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -16,8 +16,38 @@
         <mxCell id="kGSBU-VtlxvB7NdUqHOb-4" value="Weapons" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="520" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kGSBU-VtlxvB7NdUqHOb-5" target="kGSBU-VtlxvB7NdUqHOb-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kGSBU-VtlxvB7NdUqHOb-5" value="Sensors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kGSBU-VtlxvB7NdUqHOb-91" target="kGSBU-VtlxvB7NdUqHOb-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-91" value="Radar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kGSBU-VtlxvB7NdUqHOb-93" target="kGSBU-VtlxvB7NdUqHOb-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-93" value="FLIR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kGSBU-VtlxvB7NdUqHOb-95" target="kGSBU-VtlxvB7NdUqHOb-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-95" value="LASER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kGSBU-VtlxvB7NdUqHOb-97" target="kGSBU-VtlxvB7NdUqHOb-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-97" value="DATALINK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-99" value="RADIO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kGSBU-VtlxvB7NdUqHOb-6" value="Engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="420" width="120" height="60" as="geometry" />
@@ -25,8 +55,32 @@
         <mxCell id="kGSBU-VtlxvB7NdUqHOb-7" value="Fuel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kGSBU-VtlxvB7NdUqHOb-8" target="kGSBU-VtlxvB7NdUqHOb-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kGSBU-VtlxvB7NdUqHOb-8" value="Countermeasures" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kGSBU-VtlxvB7NdUqHOb-101" target="kGSBU-VtlxvB7NdUqHOb-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-101" value="Warning Recievers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kGSBU-VtlxvB7NdUqHOb-103" target="kGSBU-VtlxvB7NdUqHOb-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-103" value="CHAFF/FLARES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kGSBU-VtlxvB7NdUqHOb-105" target="kGSBU-VtlxvB7NdUqHOb-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-105" value="Decoys" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-107" value="Jamming" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kGSBU-VtlxvB7NdUqHOb-9" value="Control Panel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="340" width="120" height="60" as="geometry" />
@@ -91,7 +145,7 @@
         <mxCell id="kGSBU-VtlxvB7NdUqHOb-29" value="Variants" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kGSBU-VtlxvB7NdUqHOb-30" value="Helicopter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-30" value="Helicopter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1110" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kGSBU-VtlxvB7NdUqHOb-31" value="Unity Editor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -226,31 +280,31 @@
         <mxCell id="kGSBU-VtlxvB7NdUqHOb-79" value="Military Research" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="470" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kGSBU-VtlxvB7NdUqHOb-80" value="Aircraft" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-80" value="Aircraft" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1110" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kGSBU-VtlxvB7NdUqHOb-81" value="Sea" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-81" value="Sea" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1110" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kGSBU-VtlxvB7NdUqHOb-82" value="Land" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-82" value="Land" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1110" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kGSBU-VtlxvB7NdUqHOb-83" value="Car Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-83" value="Car Controller" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1240" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kGSBU-VtlxvB7NdUqHOb-84" value="Tank Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-84" value="Tank Controller" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1370" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kGSBU-VtlxvB7NdUqHOb-85" value="Sub Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-85" value="Sub Controller" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1240" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kGSBU-VtlxvB7NdUqHOb-86" value="Ship Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-86" value="Ship Controller" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1370" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kGSBU-VtlxvB7NdUqHOb-87" value="Aircraft Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-87" value="Aircraft Controller" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1240" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kGSBU-VtlxvB7NdUqHOb-88" value="Helicopter Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-88" value="Helicopter Controller" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1240" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
