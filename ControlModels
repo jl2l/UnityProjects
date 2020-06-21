@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-21T08:04:18.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="VwmB9z33yJo9nClqNqiS" version="13.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-21T08:06:14.602Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.45 Safari/537.36" etag="ASbFsI3Z-gHge1SXMmJx" version="13.0.4" type="github">
   <diagram id="osSn1_rlePj1DkegJ48O" name="Page-1">
     <mxGraphModel dx="2272" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -142,8 +142,14 @@
         <mxCell id="kGSBU-VtlxvB7NdUqHOb-37" value="Diomeda" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kGSBU-VtlxvB7NdUqHOb-39" target="kGSBU-VtlxvB7NdUqHOb-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kGSBU-VtlxvB7NdUqHOb-39" value="Kaliningrad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-220" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-89" value="Alpha Map List" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kGSBU-VtlxvB7NdUqHOb-51" value="Diplomacy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="-40" width="120" height="60" as="geometry" />
