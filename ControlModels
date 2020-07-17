@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-07-17T05:51:39.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="yeQR5XIKTDmTbn9ZzUpT" version="13.4.2" type="github">
+<mxfile host="www.draw.io" modified="2020-07-17T05:57:13.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="UXr1Db4byuP-96WC_8cj" version="13.4.2" type="github">
   <diagram id="osSn1_rlePj1DkegJ48O" name="Page-1">
     <mxGraphModel dx="2370" dy="2342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -124,8 +124,8 @@
         <mxCell id="kGSBU-VtlxvB7NdUqHOb-9" value="Control Panel" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1220" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kGSBU-VtlxvB7NdUqHOb-10" value="Network Control" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1830" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="kGSBU-VtlxvB7NdUqHOb-10" value="In Game" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="2410" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kGSBU-VtlxvB7NdUqHOb-11" value="Cockpit&lt;br&gt;Canvas UI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1220" y="600" width="120" height="60" as="geometry" />
@@ -337,6 +337,9 @@
         <mxCell id="kGSBU-VtlxvB7NdUqHOb-83" value="Car Controller" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="350" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DFVVYJ-CmnmZw4JcI8ue-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kGSBU-VtlxvB7NdUqHOb-84" target="DFVVYJ-CmnmZw4JcI8ue-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kGSBU-VtlxvB7NdUqHOb-84" value="Tank Controller" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="480" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
@@ -422,31 +425,31 @@
           <mxGeometry x="640" y="-170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-1" value="MDO.Web" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2750" y="-70" width="120" height="60" as="geometry" />
+          <mxGeometry x="1840" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-2" value="Forge Master &lt;br&gt;Server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2670" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="2310" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-3" value="Game Session&lt;br&gt;Server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2900" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="2480" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-4" value="Client A&lt;br&gt;[AH-64]&lt;br&gt;Pilot Seat" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2820" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="2550" y="-190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-5" value="Client B&lt;br&gt;[AH-64]&lt;br&gt;Gunner Seat" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="3020" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="2840" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-6" value="Lobby&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="-40" width="120" height="60" as="geometry" />
+          <mxGeometry x="2050" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-7" value="Lobby Player" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2890" y="-390" width="120" height="60" as="geometry" />
+          <mxGeometry x="2220" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-8" value="Player Online&lt;br&gt;List" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2740" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="2050" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-9" value="Seat &lt;br&gt;Network Object" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="3080" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="2700" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DFVVYJ-CmnmZw4JcI8ue-10" target="DFVVYJ-CmnmZw4JcI8ue-13">
           <mxGeometry relative="1" as="geometry" />
@@ -455,55 +458,55 @@
           <mxGeometry x="1665" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-12" value="Friend&lt;br&gt;Profile" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2610" y="-180" width="120" height="60" as="geometry" />
+          <mxGeometry x="2180" y="-370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-25" value="Friend&amp;nbsp;&lt;br&gt;VOIP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2610" y="-40" width="120" height="60" as="geometry" />
+          <mxGeometry x="2180" y="-290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-13" value="Squadron" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1830" y="-200" width="120" height="60" as="geometry" />
+          <mxGeometry x="2040" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-14" value="Squadron&lt;br&gt;Event" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2610" y="-460" width="120" height="60" as="geometry" />
+          <mxGeometry x="2240" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-15" value="GameManager&lt;br&gt;Network Object" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2935" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="2550" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-16" value="MDO &lt;br&gt;Sign In" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2850" y="-80" width="120" height="60" as="geometry" />
+          <mxGeometry x="1840" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-17" value="MDO &lt;br&gt;Create Account" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2970" y="-90" width="120" height="60" as="geometry" />
+          <mxGeometry x="1840" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-18" value="Social Media&lt;br&gt;Profile&lt;br&gt;[Google/MS]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="3130" y="-100" width="120" height="60" as="geometry" />
+          <mxGeometry x="1840" y="-310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DFVVYJ-CmnmZw4JcI8ue-19" target="DFVVYJ-CmnmZw4JcI8ue-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-19" value="Discord &lt;br&gt;Account" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2980" y="-210" width="120" height="60" as="geometry" />
+          <mxGeometry x="2340" y="-300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-23" value="Discord &lt;br&gt;Friends" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="3180" y="-210" width="120" height="60" as="geometry" />
+          <mxGeometry x="2540" y="-300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DFVVYJ-CmnmZw4JcI8ue-20" target="DFVVYJ-CmnmZw4JcI8ue-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-20" value="Steam&lt;br&gt;Account" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2980" y="-290" width="120" height="60" as="geometry" />
+          <mxGeometry x="2340" y="-380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-21" value="Steam&lt;br&gt;Friends" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="3180" y="-290" width="120" height="60" as="geometry" />
+          <mxGeometry x="2540" y="-380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-27" value="MDO DB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2760" y="-170" width="120" height="60" as="geometry" />
+          <mxGeometry x="1840" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DFVVYJ-CmnmZw4JcI8ue-28" value="MDO &lt;br&gt;DB" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="2640" y="230" width="60" height="80" as="geometry" />
+        <mxCell id="DFVVYJ-CmnmZw4JcI8ue-28" value="MDO &lt;br&gt;DB" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="210" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-30" value="Server Browser" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="2050" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-33" value="Crest&amp;nbsp;&lt;br&gt;Package" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="-490" width="120" height="60" as="geometry" />
@@ -522,6 +525,12 @@
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-40" value="TankController&lt;br&gt;Package" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="-860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DFVVYJ-CmnmZw4JcI8ue-42" value="Seat &lt;br&gt;Network Object" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2550" y="-110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DFVVYJ-CmnmZw4JcI8ue-43" value="Create Server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
