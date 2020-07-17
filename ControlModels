@@ -1,9 +1,12 @@
-<mxfile host="www.draw.io" modified="2020-07-17T05:57:13.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="UXr1Db4byuP-96WC_8cj" version="13.4.2" type="github">
+<mxfile host="www.draw.io" modified="2020-07-17T06:13:42.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="eaCb4P9do8f945QokV5y" version="13.4.2" type="github">
   <diagram id="osSn1_rlePj1DkegJ48O" name="Page-1">
     <mxGraphModel dx="2370" dy="2342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DFVVYJ-CmnmZw4JcI8ue-44" value="EC2 &lt;br&gt;AWS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="40" width="220" height="340" as="geometry" />
+        </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-32" value="3D IN GAME" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="-360" width="590" height="800" as="geometry" />
         </mxCell>
