@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-07-17T07:13:20.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="4QTEuSU5NZhBhXXFFtzp" version="13.4.2" type="github">
+<mxfile host="www.draw.io" modified="2020-07-17T07:43:27.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="uPu-yDuYmuHb57nEQElW" version="13.4.2" type="github">
   <diagram id="osSn1_rlePj1DkegJ48O" name="Page-1">
     <mxGraphModel dx="6281" dy="2164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1024,6 +1024,33 @@
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-323" value="&lt;font style=&quot;font-size: 14px&quot;&gt;The nodes are assigned there rules, they are either a hostile node - mission threats are in this zone, so think of a SAM site or Tank they are controlled by a AI agent.&lt;br&gt;Objective nodes are where the mission object is depending on the mission the objective could be a building or unit, you will be required to destroy, protect, escort, and a number of other types&lt;br&gt;Neutral nodes The Friendly Nodes will have allied units in them and they can move between friendly a neutral nodes without issues.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-3128.92" y="890" width="1190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DFVVYJ-CmnmZw4JcI8ue-351" value="&lt;font color=&quot;#e6e6e6&quot;&gt;Naval Warfare Sim&lt;br&gt;UBOAT, &lt;br&gt;Command Modern Operations&lt;br&gt;World of Ships&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="-3355" y="-875" width="270" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="DFVVYJ-CmnmZw4JcI8ue-353" value="&lt;font color=&quot;#e6e6e6&quot;&gt;Tank + Car Sim&lt;br&gt;World of Tanks&lt;br&gt;Truck Driver&lt;br&gt;Battlefield&lt;br&gt;ARMA&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="-2924" y="-875" width="270" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="DFVVYJ-CmnmZw4JcI8ue-354" value="&lt;font color=&quot;#e6e6e6&quot;&gt;Helicopter Sim&lt;br&gt;DCS KA-50&lt;br&gt;Longbow 2&lt;br&gt;Apache Air Assault&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="-2513.92" y="-880" width="270" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="DFVVYJ-CmnmZw4JcI8ue-355" value="&lt;font color=&quot;#e6e6e6&quot;&gt;Aircraft Sim&lt;br&gt;DCS Flight&lt;br&gt;ARMA Air&lt;br&gt;MS Flight Sim&lt;br&gt;VTOL Fighter&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="-2103.92" y="-881" width="270" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="DFVVYJ-CmnmZw4JcI8ue-356" value="&lt;font color=&quot;#e6e6e6&quot;&gt;4x Strategy&amp;nbsp;&lt;br&gt;Civilization&lt;br&gt;Stellaris&lt;br&gt;Sins Solar Empire&lt;br&gt;Total War&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="-1700" y="-890" width="270" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="DFVVYJ-CmnmZw4JcI8ue-359" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/add-128.png;strokeColor=#999999;fillColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="-3052" y="-848" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="DFVVYJ-CmnmZw4JcI8ue-360" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/add-128.png;strokeColor=#999999;fillColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="-2231.92" y="-858" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="DFVVYJ-CmnmZw4JcI8ue-361" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/add-128.png;strokeColor=#999999;fillColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="-2641.92" y="-854" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="DFVVYJ-CmnmZw4JcI8ue-362" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/add-128.png;strokeColor=#999999;fillColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="-1833.92" y="-869" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
