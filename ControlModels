@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-07-17T07:43:27.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="uPu-yDuYmuHb57nEQElW" version="13.4.2" type="github">
+<mxfile host="www.draw.io" modified="2020-07-17T18:59:40.296Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="yrJ9Jws4Kd_mLETcKz7q" version="13.4.2" type="github">
   <diagram id="osSn1_rlePj1DkegJ48O" name="Page-1">
     <mxGraphModel dx="6281" dy="2164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -439,8 +439,11 @@
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-1" value="MDO.Web" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1840" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DFVVYJ-CmnmZw4JcI8ue-367" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DFVVYJ-CmnmZw4JcI8ue-2" target="DFVVYJ-CmnmZw4JcI8ue-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-2" value="Forge Master &lt;br&gt;Server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2310" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="2305" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-3" value="Game Session&lt;br&gt;Server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2480" y="50" width="120" height="60" as="geometry" />
@@ -457,8 +460,14 @@
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-5" value="Client B&lt;br&gt;[AH-64]&lt;br&gt;Gunner Seat" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2840" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DFVVYJ-CmnmZw4JcI8ue-363" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DFVVYJ-CmnmZw4JcI8ue-6" target="DFVVYJ-CmnmZw4JcI8ue-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-6" value="Lobby&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2050" y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DFVVYJ-CmnmZw4JcI8ue-366" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DFVVYJ-CmnmZw4JcI8ue-7" target="DFVVYJ-CmnmZw4JcI8ue-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-7" value="Lobby Player" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2220" y="-40" width="120" height="60" as="geometry" />
@@ -495,6 +504,12 @@
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-13" value="Squadron" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2040" y="-200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DFVVYJ-CmnmZw4JcI8ue-368" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DFVVYJ-CmnmZw4JcI8ue-14" target="DFVVYJ-CmnmZw4JcI8ue-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFVVYJ-CmnmZw4JcI8ue-369" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.373;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DFVVYJ-CmnmZw4JcI8ue-14" target="DFVVYJ-CmnmZw4JcI8ue-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-14" value="Squadron&lt;br&gt;Event" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2240" y="-200" width="120" height="60" as="geometry" />
@@ -574,8 +589,11 @@
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-42" value="Seat &lt;br&gt;Network Object" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2550" y="-110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DFVVYJ-CmnmZw4JcI8ue-365" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DFVVYJ-CmnmZw4JcI8ue-43" target="kGSBU-VtlxvB7NdUqHOb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-43" value="Create Server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2270" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="2280" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFVVYJ-CmnmZw4JcI8ue-60" value="FOG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2127" y="-630" width="120" height="60" as="geometry" />
