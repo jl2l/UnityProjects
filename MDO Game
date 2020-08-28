@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-08-28T04:01:26.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="EHPv9NaSy8k9x2xBGlOi" version="13.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-08-28T04:03:03.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="baLb6Q8lVy2kyY9yMtOO" version="13.6.5" type="github">
   <diagram id="HWFyec-o94eZ35tE9Uwj" name="Page-1">
     <mxGraphModel dx="2272" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -147,6 +147,24 @@
         </mxCell>
         <mxCell id="8EyuaYyqInwqb3ELVrPb-27" value="Research &lt;br&gt;Item" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-810" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8EyuaYyqInwqb3ELVrPb-29" value="Mission Editor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8EyuaYyqInwqb3ELVrPb-30" value="Debug Panel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8EyuaYyqInwqb3ELVrPb-31" value="Mission" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8EyuaYyqInwqb3ELVrPb-32" value="Unit Editor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8EyuaYyqInwqb3ELVrPb-33" value="Map Simulator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8EyuaYyqInwqb3ELVrPb-34" value="Map Section" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="470" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
