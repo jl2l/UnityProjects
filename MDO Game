@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-08-28T19:43:16.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="i33odk1RE9MW8lxRD0kl" version="13.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-08-28T20:15:32.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="BhkSJ1PMTtYES5-z54Uy" version="13.6.5" type="github">
   <diagram id="HWFyec-o94eZ35tE9Uwj" name="Page-1">
     <mxGraphModel dx="2272" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -221,6 +221,39 @@
         </mxCell>
         <mxCell id="VzXUcd8jQ6WsoD_e2m1u-10" value="Variant" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-180" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VzXUcd8jQ6WsoD_e2m1u-11" value="MFD Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VzXUcd8jQ6WsoD_e2m1u-12" value="MFD Panels" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VzXUcd8jQ6WsoD_e2m1u-13" value="MFD Panels" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VzXUcd8jQ6WsoD_e2m1u-14" value="MFD Panels" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VzXUcd8jQ6WsoD_e2m1u-16" value="Tactical Map" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VzXUcd8jQ6WsoD_e2m1u-17" value="Engineering" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VzXUcd8jQ6WsoD_e2m1u-18" value="Watch List" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VzXUcd8jQ6WsoD_e2m1u-19" value="ROE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VzXUcd8jQ6WsoD_e2m1u-20" value="CIC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VzXUcd8jQ6WsoD_e2m1u-21" value="Contact Display" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VzXUcd8jQ6WsoD_e2m1u-22" value="Assign Waypoint" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
