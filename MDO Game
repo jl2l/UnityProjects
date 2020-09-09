@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-08-31T17:09:08.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="9SdR1zDwguvpP7wRLsmY" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-09T04:57:56.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.22 Safari/537.36" etag="QQHdqzxDl_24WCq69hrF" version="13.6.9" type="github">
   <diagram id="HWFyec-o94eZ35tE9Uwj" name="Page-1">
-    <mxGraphModel dx="2272" dy="1845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2512" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,7 +77,7 @@
           <mxGeometry x="-380" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nTufJYexNPDpZkg6YASu-22" value="Country &lt;br&gt;Government" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-620" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="-570" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nTufJYexNPDpZkg6YASu-23" value="Graphics Settings" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="190" width="120" height="60" as="geometry" />
@@ -131,19 +131,19 @@
           <mxGeometry x="-390" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8EyuaYyqInwqb3ELVrPb-20" value="Country &lt;br&gt;Military" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-485" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="-435" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8EyuaYyqInwqb3ELVrPb-21" value="Country &lt;br&gt;Budget" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-620" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="-570" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8EyuaYyqInwqb3ELVrPb-22" value="Country &lt;br&gt;Market" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-485" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="-435" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8EyuaYyqInwqb3ELVrPb-24" value="Country &lt;br&gt;Resource" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-340" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="-290" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8EyuaYyqInwqb3ELVrPb-25" value="Country &lt;br&gt;Contacts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-340" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="-290" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8EyuaYyqInwqb3ELVrPb-26" value="Budget" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-260" y="120" width="120" height="60" as="geometry" />
@@ -198,7 +198,7 @@
         </mxCell>
         <mxCell id="VzXUcd8jQ6WsoD_e2m1u-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VzXUcd8jQ6WsoD_e2m1u-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-640" y="660" as="targetPoint" />
+            <mxPoint x="-640" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VzXUcd8jQ6WsoD_e2m1u-1" value="Offline Military" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -210,14 +210,11 @@
         <mxCell id="VzXUcd8jQ6WsoD_e2m1u-6" value="Military &lt;br&gt;Hardware List" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-620" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VzXUcd8jQ6WsoD_e2m1u-7" value="Military &lt;br&gt;Deals" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="VzXUcd8jQ6WsoD_e2m1u-8" value="Military &lt;br&gt;Nuclear Football" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-620" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VzXUcd8jQ6WsoD_e2m1u-8" value="Military &lt;br&gt;Nuclear Football" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-620" y="820" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="VzXUcd8jQ6WsoD_e2m1u-9" value="View Military Unit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-620" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="-620" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VzXUcd8jQ6WsoD_e2m1u-10" value="Variant" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-180" y="440" width="120" height="60" as="geometry" />
@@ -255,37 +252,37 @@
         <mxCell id="VzXUcd8jQ6WsoD_e2m1u-22" value="Assign Waypoint" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-425" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5zByItY3H7moMRZ6LUQb-1" value="Crest" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5zByItY3H7moMRZ6LUQb-1" value="Crest" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-2.35" y="960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5zByItY3H7moMRZ6LUQb-2" value="DWP2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5zByItY3H7moMRZ6LUQb-2" value="DWP2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="130" y="960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5zByItY3H7moMRZ6LUQb-3" value="Silantro Aircraft" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5zByItY3H7moMRZ6LUQb-3" value="Silantro Aircraft" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="280" y="960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5zByItY3H7moMRZ6LUQb-4" value="Silantro Helicopter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5zByItY3H7moMRZ6LUQb-4" value="Silantro Helicopter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="410" y="960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5zByItY3H7moMRZ6LUQb-5" value="Car Controller" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5zByItY3H7moMRZ6LUQb-5" value="Car Controller" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="540" y="960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5zByItY3H7moMRZ6LUQb-6" value="Realistic Tank Controller" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5zByItY3H7moMRZ6LUQb-6" value="Realistic Tank Controller" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="670" y="960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5zByItY3H7moMRZ6LUQb-7" value="Sensor Toolkit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5zByItY3H7moMRZ6LUQb-7" value="Sensor Toolkit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="130" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5zByItY3H7moMRZ6LUQb-8" value="Forge" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5zByItY3H7moMRZ6LUQb-8" value="Forge" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="280" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5zByItY3H7moMRZ6LUQb-9" value="Dino Fracture" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5zByItY3H7moMRZ6LUQb-9" value="Dino Fracture" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="410" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5zByItY3H7moMRZ6LUQb-10" value="Rope Minikit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5zByItY3H7moMRZ6LUQb-10" value="Rope Minikit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="540" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5zByItY3H7moMRZ6LUQb-11" value="WPM Globe" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="5zByItY3H7moMRZ6LUQb-11" value="WPM Globe" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="680" y="890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
