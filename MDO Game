@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T04:57:56.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.22 Safari/537.36" etag="QQHdqzxDl_24WCq69hrF" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T13:21:49.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.22 Safari/537.36" etag="foxPkSapX3vYI5tNhkKa" version="13.6.9" type="github">
   <diagram id="HWFyec-o94eZ35tE9Uwj" name="Page-1">
     <mxGraphModel dx="2512" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -121,8 +121,13 @@
         <mxCell id="8EyuaYyqInwqb3ELVrPb-14" value="Space" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-800" y="50" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cwQXFCXsKSO2mIxmajpT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8EyuaYyqInwqb3ELVrPb-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-460" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8EyuaYyqInwqb3ELVrPb-15" value="Naval Combat" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-500" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="-520" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8EyuaYyqInwqb3ELVrPb-17" value="Laws" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-520" y="120" width="120" height="60" as="geometry" />
@@ -162,6 +167,9 @@
         </mxCell>
         <mxCell id="8EyuaYyqInwqb3ELVrPb-32" value="Unit Editor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-10" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cwQXFCXsKSO2mIxmajpT-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8EyuaYyqInwqb3ELVrPb-33" target="cwQXFCXsKSO2mIxmajpT-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8EyuaYyqInwqb3ELVrPb-33" value="Map Simulator" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="610" width="120" height="60" as="geometry" />
@@ -284,6 +292,9 @@
         </mxCell>
         <mxCell id="5zByItY3H7moMRZ6LUQb-11" value="WPM Globe" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="680" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cwQXFCXsKSO2mIxmajpT-2" value="Day/Night System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
