@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T16:00:36.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.53 Safari/537.36" etag="TwboTGexmuJelIuREFiR" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-29T16:08:16.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.53 Safari/537.36" etag="uJh7UAZwTelngAwL3OYk" version="13.7.5" type="github">
   <diagram id="we41xfxeWmAxK3USip-S" name="Page-1">
     <mxGraphModel dx="2523" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -176,7 +176,7 @@
           <mxGeometry x="650" y="1540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X7Z3lKkIPK-fJveALeqS-50" value="Tom - Mexico&lt;br&gt;Join Age 2&lt;br&gt;Move 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1550" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X7Z3lKkIPK-fJveALeqS-51" value="&lt;br&gt;Sarah - China&lt;br&gt;Join Age 1&lt;br&gt;Move 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="650" y="1270" width="120" height="60" as="geometry" />
@@ -193,26 +193,113 @@
         <mxCell id="X7Z3lKkIPK-fJveALeqS-55" value="Cycle 3 ++&lt;br&gt;24 hours in Auth Server Time" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="210" y="1630" width="380" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="X7Z3lKkIPK-fJveALeqS-56" value="Joe - US&lt;br&gt;Join Age 2&lt;br&gt;Move 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-56" value="Joe - US&lt;br&gt;Join Age 3&lt;br&gt;Move 4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="70" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X7Z3lKkIPK-fJveALeqS-57" value="Mark - Japan&lt;br&gt;Join Age 1&lt;br&gt;Move 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X7Z3lKkIPK-fJveALeqS-58" value="Tom - Mexico&lt;br&gt;Join Age 2&lt;br&gt;Move 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-58" value="Tom - Mexico&lt;br&gt;Join Age 3&lt;br&gt;Move 4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="80" y="2010" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X7Z3lKkIPK-fJveALeqS-59" value="&lt;br&gt;Sarah - China&lt;br&gt;Join Age 1&lt;br&gt;Move 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-59" value="&lt;br&gt;Sarah - China&lt;br&gt;Join Age 2&lt;br&gt;Move 4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="650" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X7Z3lKkIPK-fJveALeqS-60" value="&lt;br&gt;Bobby - Pakistan&lt;br&gt;Join Age 1&lt;br&gt;Move 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-60" value="&lt;br&gt;Bobby - Pakistan&lt;br&gt;Join Age 2&lt;br&gt;Move 4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="680" y="1840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X7Z3lKkIPK-fJveALeqS-61" value="Mark - Japan&lt;br&gt;Join Age 1&lt;br&gt;Move 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X7Z3lKkIPK-fJveALeqS-62" value="Mark - Japan&lt;br&gt;Join Age 2&lt;br&gt;Move 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-62" value="Mark - Japan&lt;br&gt;Join Age 3&lt;br&gt;Move 4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="650" y="2000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-63" value="Brian - Germany&lt;br&gt;Join Age 1&lt;br&gt;Move 4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="2070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-64" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1880" as="sourcePoint" />
+            <mxPoint x="250" y="1830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-65" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-40" y="1620" as="sourcePoint" />
+            <mxPoint x="900" y="1610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-66" value="Cycle 4 ++&lt;br&gt;24 hours in Auth Server Time" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="210" y="2220" width="380" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-67" value="Joe - US&lt;br&gt;Join Age 3&lt;br&gt;Move 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="70" y="2330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-68" value="Mark - Japan&lt;br&gt;Join Age 1&lt;br&gt;Move 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="2590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-69" value="Tom - Mexico&lt;br&gt;Join Age 4 &lt;br&gt;Move 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-70" value="&lt;br&gt;Sarah - China&lt;br&gt;Join Age 3&lt;br&gt;Move 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="650" y="2320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-71" value="&lt;br&gt;Bobby - Pakistan&lt;br&gt;Join Age 3&lt;br&gt;Move 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="680" y="2430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-72" value="Mark - Japan&lt;br&gt;Join Age 1&lt;br&gt;Move 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="2590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-73" value="Mark - Japan&lt;br&gt;Join Age 4&lt;br&gt;Move 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="650" y="2590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-74" value="Brian - Germany&lt;br&gt;Join Age 2&lt;br&gt;Move 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="250" y="2660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-76" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-40.000000000000455" y="2210" as="sourcePoint" />
+            <mxPoint x="899.9999999999995" y="2200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-77" value="&amp;nbsp;Sammy - Peru&lt;br&gt;Join Age 1&lt;br&gt;Move 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="490" y="2670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-78" value="Cycle 4 ++&lt;br&gt;24 hours in Auth Server Time" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="2790" width="380" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-80" value="Mark - Japan&lt;br&gt;Join Age 1&lt;br&gt;Move 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="3160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-81" value="Tom - Mexico&lt;br&gt;Join Age 5&amp;nbsp;&lt;br&gt;Move 6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="100" y="3170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-82" value="&lt;br&gt;Sarah - China&lt;br&gt;Join Age 4&lt;br&gt;Move 6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="670" y="2840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-83" value="&lt;br&gt;Bobby - Pakistan&lt;br&gt;Join Age 4&lt;br&gt;Move 6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="700" y="3000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-84" value="Mark - Japan&lt;br&gt;Join Age 1&lt;br&gt;Move 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="3160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-85" value="Mark - Japan&lt;br&gt;Join Age 5&lt;br&gt;Move 6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="670" y="3160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-86" value="Brian - Germany&lt;br&gt;Join Age 3&lt;br&gt;Move 6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="270" y="3230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-87" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20.000000000000455" y="2780" as="sourcePoint" />
+            <mxPoint x="919.9999999999995" y="2770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-88" value="&amp;nbsp;Sammy - Peru&lt;br&gt;Join Age 2&lt;br&gt;Move 6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="510" y="3240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X7Z3lKkIPK-fJveALeqS-89" value="&amp;nbsp;Carl - US&lt;br&gt;Join Age 1&lt;br&gt;Move 5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
