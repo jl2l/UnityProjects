@@ -1,1 +1,115 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T17:52:57.868Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.8.1" etag="wB2F6yaH9a9LN6--FGxp" type="github"><diagram id="eoJVmK_BNRnicT_2m83K">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-21T18:06:25.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Z6OZQ_WcO2YIhWjDCad4" version="13.8.1" type="github">
+  <diagram id="eoJVmK_BNRnicT_2m83K" name="Page-1">
+    <mxGraphModel dx="1422" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-1" value="Tanks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-2" value="Recon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-3" value="Defenders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-4" value="Supply" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-5" value="Helicopter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-6" value="Aircraft" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-10" value="REPAIR SITE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-11" value="JAM SITE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-12" value="MG SITE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-13" value="RPG SITE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-14" value="ATGM SITE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-15" value="RADAR SITE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-16" value="AAA SITE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-17" value="SUPPLY SITE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-18" value="SAM SITE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-19" value="JAMMER" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="915" y="230" width="190" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-21" value="RADAR" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="820" y="140" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-22" value="RADAR" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#b85450;shadow=0;opacity=20;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="855" y="175" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-23" value="Radar&#39;s&lt;br&gt;Normal&amp;nbsp;&lt;br&gt;Radar&lt;br&gt;250m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-24" value="Radar is inside of&lt;br&gt;Jammer, the distance shrinks&amp;nbsp;&lt;br&gt;the radar range" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="355" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-25" value="JAMMER" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="915" y="230" width="190" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-26" value="RADAR" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#b85450;shadow=0;opacity=20;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="855" y="175" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-27" value="RADAR" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1094" y="92.5" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-28" value="JAMMER" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="180" width="190" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-29" value="RADAR" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#b85450;shadow=0;opacity=20;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="1168" y="165" width="102" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-30" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1" target="zTzvj1KX8-xrD4ig2wxy-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="180" as="sourcePoint" />
+            <mxPoint x="1240" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-31" value="RADAR" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-10" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-32" value="SAM" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-30" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-33" value="&lt;font style=&quot;font-size: 9px&quot;&gt;AIRCRAFT&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;shadow=0;opacity=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="590" y="60" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-34" value="" style="endArrow=circlePlus;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="zTzvj1KX8-xrD4ig2wxy-32" target="zTzvj1KX8-xrD4ig2wxy-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="-5" as="sourcePoint" />
+            <mxPoint x="780" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-36" value="Radar extends the&lt;br&gt;range of SAMs to target aircraft from&amp;nbsp;&lt;br&gt;further away" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-80" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-37" value="RADAR" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="635" y="-200" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="zTzvj1KX8-xrD4ig2wxy-38" value="RADAR" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="-50" width="250" height="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
