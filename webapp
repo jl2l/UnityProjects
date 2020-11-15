@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2020-11-15T19:24:53.440Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="9AxPtbJ0WpKKG4XtomHV" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-15T19:52:16.398Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="SrOMb3wQr39_j1Z602uy" version="13.9.2" type="github" pages="2">
   <diagram id="RXdGLs4hhcvj3DD1G1uU" name="Page-1">
     <mxGraphModel dx="2272" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="R6LztxExkigX1LEcJYH7-135" value="EAST" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="360" width="160" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="R6LztxExkigX1LEcJYH7-136" value="CENTRAL" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="960" y="360" width="160" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="R6LztxExkigX1LEcJYH7-134" value="WEST" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="180" height="340" as="geometry" />
+        </mxCell>
         <mxCell id="R6LztxExkigX1LEcJYH7-145" value="CHINA" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1260" y="370" width="160" height="340" as="geometry" />
         </mxCell>
@@ -214,7 +223,7 @@
         <mxCell id="R6LztxExkigX1LEcJYH7-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="R6LztxExkigX1LEcJYH7-78" target="R6LztxExkigX1LEcJYH7-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R6LztxExkigX1LEcJYH7-78" value="MDO Ticket Central" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="R6LztxExkigX1LEcJYH7-78" value="MDO Ticket API&amp;nbsp;&lt;br&gt;Central" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="990" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R6LztxExkigX1LEcJYH7-79" value="Table&lt;br&gt;Game Mode" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
@@ -250,11 +259,11 @@
         <mxCell id="R6LztxExkigX1LEcJYH7-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="R6LztxExkigX1LEcJYH7-51" target="R6LztxExkigX1LEcJYH7-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R6LztxExkigX1LEcJYH7-51" value="MDO Ticket West" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="620" y="580" width="120" height="60" as="geometry" />
+        <mxCell id="R6LztxExkigX1LEcJYH7-51" value="MDO Ticket API &lt;br&gt;West" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="620" y="570" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="R6LztxExkigX1LEcJYH7-110" value="100 Tickets&lt;br&gt;PPL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="205" width="80" height="30" as="geometry" />
+          <mxGeometry x="1000" y="540" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R6LztxExkigX1LEcJYH7-111" value="Shut Down&lt;br&gt;MDO&lt;br&gt;AUTH.EXE" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="490" width="120" height="60" as="geometry" />
@@ -286,19 +295,10 @@
         <mxCell id="R6LztxExkigX1LEcJYH7-119" value="MDO.PlayerAPI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="305" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6LztxExkigX1LEcJYH7-134" value="WEST" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="600" y="360" width="160" height="340" as="geometry" />
-        </mxCell>
-        <mxCell id="R6LztxExkigX1LEcJYH7-135" value="EAST" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="780" y="360" width="160" height="340" as="geometry" />
-        </mxCell>
-        <mxCell id="R6LztxExkigX1LEcJYH7-59" value="MDO Ticket East" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="R6LztxExkigX1LEcJYH7-59" value="MDO Ticket API &lt;br&gt;East" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="800" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6LztxExkigX1LEcJYH7-136" value="CENTRAL" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="960" y="360" width="160" height="340" as="geometry" />
-        </mxCell>
-        <mxCell id="R6LztxExkigX1LEcJYH7-137" value="MDO Ticket CHINA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="R6LztxExkigX1LEcJYH7-137" value="MDO Ticket API CHINA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1290" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R6LztxExkigX1LEcJYH7-138" value="Table&lt;br&gt;Game Mode" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
@@ -321,6 +321,86 @@
         </mxCell>
         <mxCell id="R6LztxExkigX1LEcJYH7-144" value="MDO.EXE CHINA&lt;br&gt;AUTH Server Copy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1280" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R6LztxExkigX1LEcJYH7-146" value="MDO.EXE West&lt;br&gt;AUTH Server Copy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="630" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R6LztxExkigX1LEcJYH7-147" value="MDO.EXE West&lt;br&gt;AUTH Server Copy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="640" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R6LztxExkigX1LEcJYH7-148" value="MDO.EXE West&lt;br&gt;AUTH Server Copy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="650" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R6LztxExkigX1LEcJYH7-149" value="MDO.EXE West&lt;br&gt;AUTH Server Copy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="660" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R6LztxExkigX1LEcJYH7-164" value="MDO.EXE CHINA&lt;br&gt;AUTH Server Copy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R6LztxExkigX1LEcJYH7-165" value="MDO.EXE CHINA&lt;br&gt;AUTH Server Copy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R6LztxExkigX1LEcJYH7-166" value="MDO.EXE CHINA&lt;br&gt;AUTH Server Copy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R6LztxExkigX1LEcJYH7-167" value="MDO.EXE CHINA&lt;br&gt;AUTH Server Copy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R6LztxExkigX1LEcJYH7-168" value="MDO.EXE CHINA&lt;br&gt;AUTH Server Copy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R6LztxExkigX1LEcJYH7-169" value="MDO.EXE CHINA&lt;br&gt;AUTH Server Copy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6eYfbhjQq_7xQickiptx" name="Page-2">
+    <mxGraphModel dx="2272" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="PIG7JAqEvO-GCkDycg71-0" />
+        <mxCell id="PIG7JAqEvO-GCkDycg71-1" parent="PIG7JAqEvO-GCkDycg71-0" />
+        <mxCell id="PIG7JAqEvO-GCkDycg71-2" value="MDO Ticket" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="PIG7JAqEvO-GCkDycg71-1">
+          <mxGeometry x="-20" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PIG7JAqEvO-GCkDycg71-5" value="MDO SERVER EXE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="PIG7JAqEvO-GCkDycg71-1">
+          <mxGeometry x="550" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PIG7JAqEvO-GCkDycg71-6" value="MDO FRIEND API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="PIG7JAqEvO-GCkDycg71-1">
+          <mxGeometry x="760" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PIG7JAqEvO-GCkDycg71-7" value="MDO SERVER API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="PIG7JAqEvO-GCkDycg71-1">
+          <mxGeometry x="940" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PIG7JAqEvO-GCkDycg71-8" value="MDO EXE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="PIG7JAqEvO-GCkDycg71-1">
+          <mxGeometry x="370" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PIG7JAqEvO-GCkDycg71-9" value="ID&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="PIG7JAqEvO-GCkDycg71-1">
+          <mxGeometry x="170" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PIG7JAqEvO-GCkDycg71-10" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="PIG7JAqEvO-GCkDycg71-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="240" as="sourcePoint" />
+            <mxPoint x="240" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIG7JAqEvO-GCkDycg71-11" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="PIG7JAqEvO-GCkDycg71-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="290" as="sourcePoint" />
+            <mxPoint x="480" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIG7JAqEvO-GCkDycg71-12" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="PIG7JAqEvO-GCkDycg71-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="350" as="sourcePoint" />
+            <mxPoint x="630" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIG7JAqEvO-GCkDycg71-13" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="PIG7JAqEvO-GCkDycg71-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="440" as="sourcePoint" />
+            <mxPoint x="1040" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
