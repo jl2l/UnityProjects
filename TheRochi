@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-02-09T07:22:52.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" version="14.2.9" etag="9JfEAMs2pha9l7w1Ocus" type="github"><diagram id="d52hn-Z-6qsye-VAIPtK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-09T07:25:24.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="8iPoVEtx9JgCkhlHBj9F" version="14.2.9" type="github">
+  <diagram id="d52hn-Z-6qsye-VAIPtK" name="Page-1">
+    <mxGraphModel dx="2272" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2YNxkzLJ0e6CA1R6Ue-g-1" target="2YNxkzLJ0e6CA1R6Ue-g-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2YNxkzLJ0e6CA1R6Ue-g-1" target="2YNxkzLJ0e6CA1R6Ue-g-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2YNxkzLJ0e6CA1R6Ue-g-1" target="2YNxkzLJ0e6CA1R6Ue-g-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2YNxkzLJ0e6CA1R6Ue-g-1" target="2YNxkzLJ0e6CA1R6Ue-g-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-1" value="The Ship" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-2" value="The Crew" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-4" value="Solar System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-6" value="The Research" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-8" value="The Missions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
