@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-09T07:46:45.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="1_QM-pNWtvKu0eGooARK" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-09T07:52:18.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="6ldMtMVHBLwX32Oe5QWw" version="14.2.9" type="github">
   <diagram id="d52hn-Z-6qsye-VAIPtK" name="Page-1">
-    <mxGraphModel dx="2272" dy="1837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2912" dy="2254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,10 +67,16 @@
         <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2YNxkzLJ0e6CA1R6Ue-g-19" target="2YNxkzLJ0e6CA1R6Ue-g-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2YNxkzLJ0e6CA1R6Ue-g-19" target="2YNxkzLJ0e6CA1R6Ue-g-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-19" value="Planets" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2YNxkzLJ0e6CA1R6Ue-g-21" target="2YNxkzLJ0e6CA1R6Ue-g-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2YNxkzLJ0e6CA1R6Ue-g-21" target="2YNxkzLJ0e6CA1R6Ue-g-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-21" value="Moons" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -79,8 +85,14 @@
         <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2YNxkzLJ0e6CA1R6Ue-g-23" target="2YNxkzLJ0e6CA1R6Ue-g-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2YNxkzLJ0e6CA1R6Ue-g-23" target="2YNxkzLJ0e6CA1R6Ue-g-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-23" value="Stations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2YNxkzLJ0e6CA1R6Ue-g-25" target="2YNxkzLJ0e6CA1R6Ue-g-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-25" value="Asteriods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="300" width="120" height="60" as="geometry" />
@@ -126,6 +138,36 @@
         </mxCell>
         <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-42" value="Defense Upgrades" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-43" value="Stations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-45" value="Ceres" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2YNxkzLJ0e6CA1R6Ue-g-47" target="2YNxkzLJ0e6CA1R6Ue-g-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-47" value="Titan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2YNxkzLJ0e6CA1R6Ue-g-49" target="2YNxkzLJ0e6CA1R6Ue-g-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-49" value="Europa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-51" value="Luna" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2YNxkzLJ0e6CA1R6Ue-g-53" target="2YNxkzLJ0e6CA1R6Ue-g-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-53" value="Earth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-55" value="Mars Etc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="20" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
