@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-09T07:34:49.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="J-3EAN-Tzy7zrxiA2RQ_" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-09T07:46:45.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="1_QM-pNWtvKu0eGooARK" version="14.2.9" type="github">
   <diagram id="d52hn-Z-6qsye-VAIPtK" name="Page-1">
-    <mxGraphModel dx="2272" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="1837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-4" value="Solar System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2YNxkzLJ0e6CA1R6Ue-g-6" target="2YNxkzLJ0e6CA1R6Ue-g-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-6" value="The Research" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="470" width="120" height="60" as="geometry" />
@@ -111,6 +114,18 @@
         </mxCell>
         <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-37" value="Salvage Ship" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="-180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-38" value="Engine Upgrades" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-40" value="Sensor Upgrades" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-41" value="Weapon Upgrades" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-42" value="Defense Upgrades" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
