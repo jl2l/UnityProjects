@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T07:28:03.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="kilB1OLh3gvSHa8-kI9t" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T00:39:18.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="zWILa5QjaF5Ac8U7YXL0" version="14.3.2" type="github">
   <diagram id="d52hn-Z-6qsye-VAIPtK" name="Page-1">
-    <mxGraphModel dx="2272" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2912" dy="3322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,6 +163,9 @@
         <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-42" value="Defense Upgrades" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-210" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2YNxkzLJ0e6CA1R6Ue-g-43" target="3rizbKOMKbdjfKsFxHT2-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2YNxkzLJ0e6CA1R6Ue-g-43" value="Stations" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="970" y="160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -310,6 +313,9 @@
         <mxCell id="3rizbKOMKbdjfKsFxHT2-2" value="Main Menu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="-490" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3rizbKOMKbdjfKsFxHT2-4" target="3rizbKOMKbdjfKsFxHT2-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3rizbKOMKbdjfKsFxHT2-4" value="Story" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="-690" width="120" height="60" as="geometry" />
         </mxCell>
@@ -321,6 +327,117 @@
         </mxCell>
         <mxCell id="3rizbKOMKbdjfKsFxHT2-9" value="Free Mode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1500" y="-610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3rizbKOMKbdjfKsFxHT2-10" target="3rizbKOMKbdjfKsFxHT2-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-10" value="Intro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="-830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3rizbKOMKbdjfKsFxHT2-12" target="3rizbKOMKbdjfKsFxHT2-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-12" value="Choose Your Background" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="-830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3rizbKOMKbdjfKsFxHT2-14" target="3rizbKOMKbdjfKsFxHT2-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-14" value="Ship Yard &lt;br&gt;Selection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="-830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3rizbKOMKbdjfKsFxHT2-16" target="3rizbKOMKbdjfKsFxHT2-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-16" value="Launch Into Space" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3rizbKOMKbdjfKsFxHT2-18" target="3rizbKOMKbdjfKsFxHT2-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3rizbKOMKbdjfKsFxHT2-18" target="3rizbKOMKbdjfKsFxHT2-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3rizbKOMKbdjfKsFxHT2-18" target="3rizbKOMKbdjfKsFxHT2-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-18" value="Space Map" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3rizbKOMKbdjfKsFxHT2-20" target="3rizbKOMKbdjfKsFxHT2-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-20" value="Missions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="-970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-22" value="Mission&lt;br&gt;Complete" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="-970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-24" value="Crew" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3rizbKOMKbdjfKsFxHT2-26" target="3rizbKOMKbdjfKsFxHT2-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-26" value="Ship" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-28" value="Life" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-30" value="Sensors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-31" value="Weapons" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-32" value="Engineer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="-1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-33" value="Engineer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="-1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-34" value="Get close to Station" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-36" value="RESUPPLY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-37" value="HIRE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-38" value="BUY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-39" value="SELL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-40" value="ATTACK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-41" value="DOCK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-42" value="Get close to Planet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-43" value="RESUPPLY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="-265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-44" value="HIRE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="-195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-45" value="BUY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-46" value="SELL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-47" value="ATTACK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="-265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3rizbKOMKbdjfKsFxHT2-48" value="SURFACE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="-195" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
